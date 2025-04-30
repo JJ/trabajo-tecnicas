@@ -1,0 +1,9 @@
+---
+title: "Trabajo de Historia de las Técnicas Artísticas y de la Construcción"
+author: "Juan Julián Merelo Guervós"
+output:
+  pdf_document: default
+  html_document: default
+biblio: biblio.bib
+---
+
