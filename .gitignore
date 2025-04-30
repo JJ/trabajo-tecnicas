@@ -50,3 +50,6 @@ rsconnect/
 
 # Otros ficheros
 *.Rproj
+auto/
+*.pdf
+*~
