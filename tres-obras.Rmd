@@ -4,7 +4,7 @@ author: "Juan Julián Merelo Guervós"
 output:
   pdf_document: default
   html_document: default
-biblio: biblio.bib
+bibliography: biblio.bib
 ---
 
 # Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
@@ -29,6 +29,8 @@ biblio: biblio.bib
 ## Materiales y procedimientos
 
 ### Soporte
+
+Como casi todos los primitivos flamencos, el soporte que se usa es roble del Báltico [@roble].
 
 ### Preparaciones
 
@@ -59,3 +61,5 @@ biblio: biblio.bib
 
 ### Barnices
 
+
+# Referencias
