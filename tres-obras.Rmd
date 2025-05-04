@@ -7,3 +7,55 @@ output:
 biblio: biblio.bib
 ---
 
+# Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
+
+## Breve introducción histórica
+
+## Materiales y técnicas de ejecución
+
+### Tipos de mortero
+
+### Dibujo preparatorio
+
+### Técnica pictórica
+
+### Pigmentos
+
+
+# El Descendimiento de Roger van der Weyden, Museo Nacional del Prado
+
+## Contexto general
+
+## Materiales y procedimientos
+
+### Soporte
+
+### Preparaciones
+
+### Aglutinantes
+
+### Pigmentos
+
+### Dorados
+
+### Barnices
+
+
+# La coronación de la Virgen, Diego Rodríquez de Silva y Velázquez, Museo Nacional del Prado
+
+## Contexto general
+
+## Materiales y procedimientos
+
+### Soporte
+
+### Preparaciones
+
+### Aglutinantes
+
+### Pigmentos
+
+### Dorados
+
+### Barnices
+
