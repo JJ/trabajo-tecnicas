@@ -4,6 +4,64 @@ author: "Juan Julián Merelo Guervós"
 output:
   pdf_document: default
   html_document: default
-biblio: biblio.bib
+bibliography: biblio.bib
 ---
 
+# Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
+
+## Breve introducción histórica
+
+## Materiales y técnicas de ejecución
+
+### Tipos de mortero
+
+### Dibujo preparatorio
+
+### Técnica pictórica
+
+### Pigmentos
+
+
+# El Descendimiento de Roger van der Weyden, Museo Nacional del Prado
+
+## Contexto general
+
+## Materiales y procedimientos
+
+### Soporte
+
+Como casi todos los primitivos flamencos, el soporte que se usa es roble del Báltico [@roble]. estructurado en 11 tableros verticales [@asperen1983algunas]
+
+> [unidos] mediante tres espiches de madera en cada junta, salvo en las centrales que son cuatro por ser de mayor tamaño.
+
+### Preparaciones
+
+### Aglutinantes
+
+### Pigmentos
+
+### Dorados
+
+### Barnices
+
+
+# La coronación de la Virgen, Diego Rodríquez de Silva y Velázquez, Museo Nacional del Prado
+
+## Contexto general
+
+## Materiales y procedimientos
+
+### Soporte
+
+### Preparaciones
+
+### Aglutinantes
+
+### Pigmentos
+
+### Dorados
+
+### Barnices
+
+
+# Referencias
