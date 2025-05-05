@@ -53,3 +53,4 @@ rsconnect/
 auto/
 *.pdf
 *~
+*.aux
