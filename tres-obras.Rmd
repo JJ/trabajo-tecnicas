@@ -26,6 +26,8 @@ bibliography: biblio.bib
 
 ## Contexto general
 
+Van der Weyden nació en Doornik/Tournai en 1399, en lo que entonces era Borgoña, llegando a convertirse en pintor oficial de la corte en Bruselas [@gregory85:_van_weyden]. Se formó como aprendiz de Robert Campin, otro pintor de la misma ciudad.
+
 ## Materiales y procedimientos
 
 ### Soporte
@@ -48,6 +50,7 @@ Como casi todos los primitivos flamencos, el soporte que se usa es roble del Bá
 # La coronación de la Virgen, Diego Rodríquez de Silva y Velázquez, Museo Nacional del Prado
 
 ## Contexto general
+
 
 ## Materiales y procedimientos
 
