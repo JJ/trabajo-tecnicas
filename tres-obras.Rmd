@@ -39,6 +39,8 @@ El cuadro, fechado *antes de 1443* [@alcalde02] era parte de un retablo cuyas al
 
 El cuadro es notable por el realismo de las figuras, pero también por la precisión con la que se reflejan diferentes fases y niveles de dolor ante la muerte de Cristo. Esta es una característica de la *devotio moderna*, que trata de presentar a las figuras evangélicas como humanas y por tanto cercanas, figuras con las que se puede empatizar. La postura de desvanecimiento de María se denomina *spasimo* y en este caso se usa de forma estructural en el cuadro, en paralelo al cuerpo de Cristo, y a la vez creando un ritmo diagonal en el cuadro, interrumpido por el paralelismo vertical del brazo de Cristo y el de María.
 
+Los materiales reflejan la historia de la pieza, que tras ser instalada en la capilla para la que se creó, acabó en el Escorial, para lo que tuvo que ser desmontada, y finalmente fue instalada en el Museo del Prado  [@veliz2016caring], donde sufrió un proceso de restauración extensivo en los años 80 y 90 del siglo pasado [@miller2011development].
+
 ## Materiales y procedimientos
 
 ### Soporte
@@ -50,7 +52,19 @@ Las tablas están estructuradas en 11 tableros verticales [@asperen1983algunas]
 
 Los bordes son biselados para poder incluirse en el marco original, que sin embargo se ha perdido; este marco posiblemente tuviera la misma apariencia que el marco en trampantojo incluido por el mismo cuadro.
 
+Adicionalmente, en los años 90 se le añadió un mecanismo basado en muelles, desarrollado en el Metropolitan de Nueva York, que permita la expansión y contracción del cuadro con más sencillez [@miller2011development] y permitiendo ajustes de la tensión tanto en horizontal como en vertical. Sobre cada unión entre las tablas, embutidas a media madera, hay cuatro colas de milano; las tablas centrales, sin embargo, tienen 5 por ser más grandes [@asperen1983algunas]. El marco es de madera resinosa y reforzado con listones de madera; no es el original, pero sí es antiguo, aparentemente del siglo XIX.
+
 ### Preparaciones
+
+La imprimación se ha hecho con una capa de yeso y cola [@SpringMarika2012TmoR]; adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo con pigmento rojo opaco y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
+
+El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
+
+> ... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
+
+
+
+### Dibujo subyacente
 
 ### Aglutinantes
 
