@@ -30,13 +30,18 @@ Van der Weyden nació en Doornik/Tournai en 1399, en lo que entonces era Borgoñ
 
 En esa época en los países bajos y Alemania se ha implantado una corriente reformista de la iglesia denominada *devotio moderna* [@salas2022devotio]. La *devotio moderna* busca una experiencia personal de la religión, incluyendo experimentar los sufrimientos de Cristo y la Virgen María y empatizar con los mismos. En el arte, esto se traduce en la creación de cuadros de pequeño formato para la devoción personal, que a su vez necesitan detalles, así como un color vivo y vibrante, que refleje todos los matices del sufrimiento. Esta necesidad de detalle y de color es posible que fueran factores en el uso de las técnicas pictóricas tales como los pinceles de un solo pelo y el uso de veladuras para conseguir profundidad del color y volumen en las figuras.
 
+Como también se refleja en los cuadros de Van Eyck, la actividad comercial de los Países Bajos era considerable y estaba agrupada sobre todo en gremios, que encargaban cuadros a los diferentes artífices para mostrar en sus locales gremiales o adornar las capillas dedicadas por ellos en las iglesias. En concreto, este cuadro fue encargado por el Gran Gremio de los Arqueros (encargados, entre otras cosas, de fabricar ballestas en esta época) para la capilla de Nuestra Señora Extramuros de Lovaina [@campbell04].
+
 ## Materiales y procedimientos
 
 ### Soporte
 
-Como casi todos los primitivos flamencos, el soporte que se usa es roble del Báltico [@roble]. estructurado en 11 tableros verticales [@asperen1983algunas]
+Como casi todos los primitivos flamencos, el soporte que se usa es roble del Báltico [@roble].
+Las tablas están estructuradas en 11 tableros verticales [@asperen1983algunas]
 
 > [unidos] mediante tres espiches de madera en cada junta, salvo en las centrales que son cuatro por ser de mayor tamaño.
+
+Los bordes son biselados para poder incluirse en el marco original, que sin embargo se ha perdido; este marco posiblemente tuviera la misma apariencia que el marco en trampantojo incluido por el mismo cuadro.
 
 ### Preparaciones
 
