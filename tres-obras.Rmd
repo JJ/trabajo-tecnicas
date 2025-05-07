@@ -60,11 +60,17 @@ La imprimación se ha hecho con una capa de yeso y cola [@SpringMarika2012TmoR];
 
 El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
 
-> ... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
+>... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
 
-
+Las imprimaturas basadas en plomo son, con diferentes combinaciones, la habitual en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
 
 ### Dibujo subyacente
+
+[@asperen1983algunas] presenta un panorama bastante completo del dibujo subyacente en las diferentes partes del cuadro. Se da con pinceladas ligeras que no siempre corresponden con la superficie pictórica, usando técnicas específicas para las sombras, trazos "de tipo colmillo" (para superficies planas) y líneas paralelas para formas más profundas. Donde menos diferencia hay con el dibujo subyacente es la ropa; en las caras, sin embargo, hay muy poca coincidencia. 
+
+También hay algunas correcciones en posiciones del cuerpo y en la ropa, apreciada en la radiografía.
+
+No he encontrado como se hace el dibujo subyacente, pero en esta época se hacía normalmente con carboncillo. En todo caso, se encuentra al parecer debajo de la imprimatura y encima de la capa de preparación de yeso.
 
 ### Aglutinantes
 
