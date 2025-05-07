@@ -26,7 +26,9 @@ bibliography: biblio.bib
 
 ## Contexto general
 
-Van der Weyden nació en Doornik/Tournai en 1399, en lo que entonces era Borgoña, llegando a convertirse en pintor oficial de la corte en Bruselas [@gregory85:_van_weyden]. Se formó como aprendiz de Robert Campin, otro pintor de la misma ciudad.
+Van der Weyden nació en Doornik/Tournai en 1399, en lo que entonces era Borgoña, llegando a convertirse en pintor oficial de la corte en Bruselas [@gregory85:_van_weyden]. Se formó como aprendiz de Robert Campin, otro pintor de la misma ciudad. Junto con el resto de los denominados "Primitivos flamencos", como Van Eyck, fue la primera escuela que utilizó el óleo y se esforzó en un mayor realismo, logrado a través sobre todo de la extrema atención al detalle.
+
+En esa época en los países bajos y Alemania se ha implantado una corriente reformista de la iglesia denominada *devotio moderna* [@salas2022devotio]. La *devotio moderna* busca una experiencia personal de la religión, incluyendo experimentar los sufrimientos de Cristo y la Virgen María y empatizar con los mismos. En el arte, esto se traduce en la creación de cuadros de pequeño formato para la devoción personal, que a su vez necesitan detalles, así como un color vivo y vibrante, que refleje todos los matices del sufrimiento. Esta necesidad de detalle y de color es posible que fueran factores en el uso de las técnicas pictóricas tales como los pinceles de un solo pelo y el uso de veladuras para conseguir profundidad del color y volumen en las figuras.
 
 ## Materiales y procedimientos
 
