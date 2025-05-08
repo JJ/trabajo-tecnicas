@@ -73,7 +73,7 @@ El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plo
 
 Las imprimaturas basadas en plomo son, con diferentes combinaciones, la habitual en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
 
-En cuanto al rojo de minio [@perez1994proceso] se trata de tetraóxido de plomo y se obtiene de la misma forma que el blanco de plomo calentándolo; al necesitar este proceso de calentamiento, es uno de los primeros pigmentos generados artificialmente; y esto es así desde Plinio el Viejo, que describía el proceso y lo llamaba *minium secundarium* (el *primarium* sería el cinabrio).
+En cuanto al rojo de minio [@perez1994proceso] se trata de tetraóxido de plomo y se obtiene de la misma forma que el blanco de plomo calentándolo; al necesitar este proceso de calentamiento, es uno de los primeros pigmentos generados artificialmente; y esto es así desde Plinio el Viejo, que describía el proceso llamándolo *minium secundarium* (el *primarium* sería el cinabrio).
 
 Por su tendencia a ennegrecerse y también por mezclarse mal con otros pigmentos como el blanco de plomo, en esa época se usaba preferentemente como preparación, usando otro tipo de colores (como el bermellón) para el rojo en la capa pictórica [@clair2018secret].
 
@@ -87,7 +87,7 @@ No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, p
 
 ### Aglutinantes
 
-
+Como es lo habitual en el óleo, se usa aceite de linaza como aglutinante. En este caso específico, tras la restauración por "El Mudo" [@veliz2016caring], se usó también aceite de nuez para restaurar las pérdidas de material de la pintura.
 
 ### Pigmentos
 
