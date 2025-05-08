@@ -27,9 +27,10 @@ bibliography: biblio.bib
 ![El Descendimiento de Roger van der Weyden](Descendimiento.jpg)
 **Figura 1**: El Descendimiento de Van Der Weyden, imagen de dominio público [descargada de Wikimedia Commons](https://es.m.wikipedia.org/wiki/Archivo:El_Descendimiento,_by_Rogier_van_der_Weyden,_from_Prado_in_Google_Earth.jpg#).
 
-## Contexto general
+El Descendimiento es un óleo sobre tabla realizado por Rogier de la Pasture/van der Weyden^[versión francesa o flamenca del mismo nombre, que significa "de la vega"] entre 1535 y 1437 [@alcalde02].
 
-El Descendimiento es un óleo sobre tabla realizado por Rogier de la Pasture/van der Weyden (versión francesa o flamenca del mismo nombre, que significa "de la vega").
+
+## Contexto general
 
 Van der Weyden (usaremos su nombre flamenco, ya que nació en una localidad flamenca) nació en Doornik/Tournai en 1399, en lo que entonces era Borgoña, llegando a convertirse en pintor oficial de la corte en Bruselas [@gregory85:_van_weyden]. Se formó como aprendiz de Robert Campin, otro pintor de la misma ciudad. Junto con el resto de los denominados "Primitivos flamencos", como Van Eyck, fue la primera escuela que utilizó el óleo y se esforzó en un mayor realismo, logrado a través sobre todo de la extrema atención al detalle.
 
@@ -64,13 +65,17 @@ La imprimación se ha hecho con una capa de carbonato cálcico (blanco de Españ
 
 A este tipo de imprimación, *imprimación a la creta* por el mineral que se machaca para obtener el carbonato cálcico [@thompson1956materials]. Este tipo de preparación para tabla se popularizó en Italia desde el siglo anterior, y se adoptó en otras escuelas pictóricas. 
 
-Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo con pigmento rojo opaco y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
+Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo con pigmento rojo opaco (minio) y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
 
 El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
 
 >... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
 
 Las imprimaturas basadas en plomo son, con diferentes combinaciones, la habitual en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
+
+En cuanto al rojo de minio [@perez1994proceso] se trata de tetraóxido de plomo y se obtiene de la misma forma que el blanco de plomo calentándolo; al necesitar este proceso de calentamiento, es uno de los primeros pigmentos generados artificialmente; y esto es así desde Plinio el Viejo, que describía el proceso y lo llamaba *minium secundarium* (el *primarium* sería el cinabrio).
+
+Por su tendencia a ennegrecerse y también por mezclarse mal con otros pigmentos como el blanco de plomo, en esa época se usaba preferentemente como preparación, usando otro tipo de colores (como el bermellón) para el rojo en la capa pictórica [@clair2018secret].
 
 ### Dibujo subyacente
 
