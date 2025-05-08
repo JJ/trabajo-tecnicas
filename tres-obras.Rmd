@@ -61,9 +61,13 @@ Las tablas están estructuradas en 11 tableros verticales [@asperen1983algunas]
 
 > [unidos] mediante tres espiches de madera en cada junta, salvo en las centrales que son cuatro por ser de mayor tamaño.
 
+La madera fue cortada tangencialmente al tronco, en un patrón (de "llama" o "catedral") que se observa con cierta claridad en las imágenes publicadas del reverso. Este tipo de corte es el más económico, ya que aprovecha todo el tronco. Dado que el roble báltico lo tenían que traer a Borgoña desde muy lejos, era importante aprovecharlo, aunque su dilatación y contracción fuera mayor que con otro tipo de cortes.
+
 Los bordes son biselados para poder incluirse en el marco original, que sin embargo se ha perdido; este marco posiblemente tuviera la misma apariencia que el marco en trampantojo incluido por el mismo cuadro.
 
 Adicionalmente, en los años 90 se le añadió un mecanismo basado en muelles, desarrollado en el Metropolitan de Nueva York, que permita la expansión y contracción del cuadro con más sencillez [@miller2011development] y permitiendo ajustes de la tensión tanto en horizontal como en vertical. Sobre cada unión entre las tablas, embutidas a media madera, hay cuatro colas de milano; las tablas centrales, sin embargo, tienen 5 por ser más grandes [@asperen1983algunas]. El marco es de madera resinosa y reforzado con listones de madera; no es el original, pero sí es antiguo, aparentemente del siglo XIX.
+
+
 
 ### Preparaciones
 
@@ -74,7 +78,6 @@ La imprimación se ha hecho con una capa de carbonato cálcico (blanco de Españ
 A este tipo de imprimación, *imprimación a la creta* por el mineral que se machaca para obtener el carbonato cálcico [@thompson1956materials]. Este tipo de preparación para tabla se popularizó en Italia desde el siglo anterior, y se adoptó en otras escuelas pictóricas. 
 
 Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo (véase [la referencia sobre el mismo](#bplomo)) con pigmento rojo opaco (minio) y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
-
 
 Las imprimaturas basadas en plomo son, con diferentes combinaciones, la habitual en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
 
@@ -95,6 +98,13 @@ No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, p
 Como es lo habitual en el óleo, se usa aceite de linaza como aglutinante. En este caso específico, tras la restauración por "El Mudo" [@veliz2016caring], se usó también aceite de nuez para restaurar las pérdidas de material de la pintura.
 
 ### Pigmentos
+
+Los pigmentos usados están sacados de [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un planos que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
+
+Los colores y los pigmentos correspondientes que se mencionan en el artículo anterior con:
+
+* Para el **blanco**: [Blanco de plomo]{#bplomo}, usado "con rigor" [@asperen1983algunas] y principalmente para las zonas de luz y paños claros.
+* Para las **carnaciones**: este cuadro tiene 
 
 ### Dorados
 
