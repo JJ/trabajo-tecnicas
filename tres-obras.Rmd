@@ -67,8 +67,6 @@ Los bordes son biselados para poder incluirse en el marco original, que sin emba
 
 Adicionalmente, en los años 90 se le añadió un mecanismo basado en muelles, desarrollado en el Metropolitan de Nueva York, que permita la expansión y contracción del cuadro con más sencillez [@miller2011development] y permitiendo ajustes de la tensión tanto en horizontal como en vertical. Sobre cada unión entre las tablas, embutidas a media madera, hay cuatro colas de milano; las tablas centrales, sin embargo, tienen 5 por ser más grandes [@asperen1983algunas]. El marco es de madera resinosa y reforzado con listones de madera; no es el original, pero sí es antiguo, aparentemente del siglo XIX.
 
-
-
 ### Preparaciones
 
 La imprimación se ha hecho con una capa de carbonato cálcico (blanco de España) y cola [@SpringMarika2012TmoR]. La mezcla de blanco de España con colas animales se suele denominar *gesso* y ya se describió en el tratado de Cennino Cennini [@cennini1859libro]. En su capítulo CXV afirma sobre la preparación de una tabla:
@@ -104,7 +102,8 @@ Los pigmentos usados están sacados de [@asperen1983algunas]. En general, se usa
 Los colores y los pigmentos correspondientes que se mencionan en el artículo anterior con:
 
 * Para el **blanco**: [Blanco de plomo]{#bplomo}, usado "con rigor" [@asperen1983algunas] y principalmente para las zonas de luz y paños claros.
-* Para las **carnaciones**: este cuadro tiene 
+* Para las **carnaciones**: mezclas de blanco de plomo con diferentes pigmentos, con más carga del mismo en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
+* **Negro**: en [@asperen1983algunas] afirma "sin determinar", aunque en [@perez1994proceso] dice que son "de origen orgánico".
 
 ### Dorados
 
