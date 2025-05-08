@@ -56,7 +56,13 @@ Adicionalmente, en los años 90 se le añadió un mecanismo basado en muelles, d
 
 ### Preparaciones
 
-La imprimación se ha hecho con una capa de yeso y cola [@SpringMarika2012TmoR]; adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo con pigmento rojo opaco y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
+La imprimación se ha hecho con una capa de carbonato cálcico (blanco de España) y cola [@SpringMarika2012TmoR]. La mezcla de blanco de España con colas animales se suele denominar *gesso* y ya se describió en el tratado de Cennino Cennini [@cennini1859libro]. En su capítulo CXV afirma sobre la preparación de una tabla:
+
+>  Poi abbi gèsso grosso, cioè volterrano, ch'è purgato, ed è tamigiato a modo di farina.
+
+A este tipo de imprimación, *imprimación a la creta* por el mineral que se machaca para obtener el carbonato cálcico [@thompson1956materials]. Este tipo de preparación para tabla se popularizó en Italia desde el siglo anterior, y se adoptó en otras escuelas pictóricas. 
+
+Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo con pigmento rojo opaco y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
 
 El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
 
@@ -70,7 +76,7 @@ Las imprimaturas basadas en plomo son, con diferentes combinaciones, la habitual
 
 También hay algunas correcciones en posiciones del cuerpo y en la ropa, apreciada en la radiografía.
 
-No he encontrado como se hace el dibujo subyacente, pero en esta época se hacía normalmente con carboncillo. En todo caso, se encuentra al parecer debajo de la imprimatura y encima de la capa de preparación de yeso.
+No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, pero en esta época se hacía normalmente con carboncillo. En todo caso, se encuentra al parecer debajo de la imprimatura y encima de la capa de preparación de yeso.
 
 ### Aglutinantes
 
