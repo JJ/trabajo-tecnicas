@@ -6,6 +6,14 @@ output:
   html_document: default
 bibliography: biblio.bib
 ---
+# Referencia: pigmentos usados en varias obras {#pigmentos}
+
+## Blanco de plomo {#bplomo}
+
+El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
+
+>... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
+
 
 # Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
 
@@ -65,11 +73,8 @@ La imprimación se ha hecho con una capa de carbonato cálcico (blanco de Españ
 
 A este tipo de imprimación, *imprimación a la creta* por el mineral que se machaca para obtener el carbonato cálcico [@thompson1956materials]. Este tipo de preparación para tabla se popularizó en Italia desde el siglo anterior, y se adoptó en otras escuelas pictóricas. 
 
-Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo con pigmento rojo opaco (minio) y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
+Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo (véase [la referencia sobre el mismo](#bplomo)) con pigmento rojo opaco (minio) y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes.
 
-El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
-
->... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
 
 Las imprimaturas basadas en plomo son, con diferentes combinaciones, la habitual en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
 
