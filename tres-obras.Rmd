@@ -95,7 +95,7 @@ No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, p
 
 Como es lo habitual en el óleo, se usa aceite de linaza como aglutinante. En este caso específico, tras la restauración por "El Mudo" [@veliz2016caring], se usó también aceite de nuez para restaurar las pérdidas de material de la pintura.
 
-El óleo, que se comenzó a usar por primera vez de forma extensiva por parte de los primitivos flamencos, les permitió desarrollar *sistemas de pintura* [@bol2012painting] específicos para carnación y también el agua con los cuales alcanzaron nuevas cotas de realismo. Estos sistemas incluían desde la imprimación hasta diferentes capas de veladuras, como veremos en el apartado correspondiente.
+El óleo, que se comenzó a usar por primera vez de forma extensiva por parte de los primitivos flamencos, que por primera vez lo emplearon para *toda* la pintura, les permitió desarrollar *sistemas de pintura* [@bol2012painting] específicos para carnación y también el agua con los cuales alcanzaron nuevas cotas de realismo. Estos sistemas incluían desde la imprimación hasta diferentes capas de veladuras, como veremos en el apartado correspondiente.
 
 ### Pigmentos
 
@@ -114,7 +114,16 @@ Reflejar el color de la piel humana es  una de las técnicas más complicadas de
 La representación de la carnación no solo afecta a la capa pictórica sino también al resto de las capas, requiriendo todo un *sistema de pintura* [@bol2012painting] para conseguir la semi-transparencia característica de la misma; en este apartado, sin embargo, sólo hablaremos de los pigmentos usados en la misma.
 
 En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferentes pigmentos, con más carga del mismo en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
-* **Negro**: en [@asperen1983algunas] afirma "sin determinar", aunque en [@perez1994proceso] dice que son "de origen orgánico".
+
+Por lo tanto, la carnación es un resultado de varias capas de pintura, que de acuerdo con [@Metzger01011998], que las analizó para un retrato de Van der Weyden, pueden incluir:
+
+- **Rojo tierra** u **ocre**, es decir, óxido de hierro. 
+- **Blanco de España** o carbonato cálcico. Véase [referencia]{#ccalcio}
+
+
+#### Negro
+
+En [@asperen1983algunas] afirma "sin determinar", aunque en [@perez1994proceso] dice que son "de origen orgánico".
 
 ### Dorados
 
