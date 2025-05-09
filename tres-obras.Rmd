@@ -101,8 +101,17 @@ Los pigmentos usados están sacados de [@asperen1983algunas]. En general, se usa
 
 Los colores y los pigmentos correspondientes que se mencionan en el artículo anterior con:
 
-* Para el **blanco**: [Blanco de plomo]{#bplomo}, usado "con rigor" [@asperen1983algunas] y principalmente para las zonas de luz y paños claros.
-* Para las **carnaciones**: mezclas de blanco de plomo con diferentes pigmentos, con más carga del mismo en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
+#### Blanco
+
+Para el blanco se usa [blanco de plomo]{#bplomo}, usado "con rigor" [@asperen1983algunas] y principalmente para las zonas de luz y paños claros
+
+#### Carnaciones
+
+Reflejar el color de la piel humana es  una de las técnicas más complicadas de dominar y los primitivos flamencos fueron los primeros que lo consiguieron de forma realista, una vez más impulsados por su adhesión a la *devotio moderna* que buscaba una identificación del devoto con las figuras divinas representadas en la pintura [@bol2012painting].
+
+La representación de la carnación no solo afecta a la capa pictórica sino también al resto de las capas; en este apartado, sin embargo, sólo hablaremos de los pigmentos usados en la misma.
+
+En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferentes pigmentos, con más carga del mismo en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
 * **Negro**: en [@asperen1983algunas] afirma "sin determinar", aunque en [@perez1994proceso] dice que son "de origen orgánico".
 
 ### Dorados
