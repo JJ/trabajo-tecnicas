@@ -95,6 +95,8 @@ No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, p
 
 Como es lo habitual en el óleo, se usa aceite de linaza como aglutinante. En este caso específico, tras la restauración por "El Mudo" [@veliz2016caring], se usó también aceite de nuez para restaurar las pérdidas de material de la pintura.
 
+El óleo, que se comenzó a usar por primera vez de forma extensiva por parte de los primitivos flamencos, les permitió desarrollar *sistemas de pintura* [@bol2012painting] específicos para carnación y también el agua con los cuales alcanzaron nuevas cotas de realismo. Estos sistemas incluían desde la imprimación hasta diferentes capas de veladuras, como veremos en el apartado correspondiente.
+
 ### Pigmentos
 
 Los pigmentos usados están sacados de [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un planos que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
@@ -109,7 +111,7 @@ Para el blanco se usa [blanco de plomo]{#bplomo}, usado "con rigor" [@asperen198
 
 Reflejar el color de la piel humana es  una de las técnicas más complicadas de dominar y los primitivos flamencos fueron los primeros que lo consiguieron de forma realista, una vez más impulsados por su adhesión a la *devotio moderna* que buscaba una identificación del devoto con las figuras divinas representadas en la pintura [@bol2012painting].
 
-La representación de la carnación no solo afecta a la capa pictórica sino también al resto de las capas; en este apartado, sin embargo, sólo hablaremos de los pigmentos usados en la misma.
+La representación de la carnación no solo afecta a la capa pictórica sino también al resto de las capas, requiriendo todo un *sistema de pintura* [@bol2012painting] para conseguir la semi-transparencia característica de la misma; en este apartado, sin embargo, sólo hablaremos de los pigmentos usados en la misma.
 
 En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferentes pigmentos, con más carga del mismo en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
 * **Negro**: en [@asperen1983algunas] afirma "sin determinar", aunque en [@perez1994proceso] dice que son "de origen orgánico".
