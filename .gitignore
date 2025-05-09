@@ -54,3 +54,4 @@ auto/
 *.pdf
 *~
 *.aux
+*.log
