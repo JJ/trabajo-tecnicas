@@ -141,11 +141,11 @@ Por lo tanto, la carnación es un resultado de varias capas de pintura, que de a
 * **Tierra amarilla** u **ocre**: se trata de un óxido de hierro hidratado FeO(OH).
 * **Génuli** o **amarillo de plomo**: Un óxido de plomo, se obtiene al quemar el [blanco de plomo](#bplomo), pero también de forma natural. Su fórmula es PbO.
 
-Aunque todos estos colores se han encontrado en otra pintura del mismo autor analizada de forma extensiva, es muy probable que en esta se encuentren también, especialmente los más comunes.
+Aunque todos estos colores se han encontrado en otra pintura del mismo autor analizada de forma extensiva, es muy probable que en esta se encuentren también, especialmente los más comunes. 
 
 #### Negro
 
-En [@asperen1983algunas] afirma "sin determinar", aunque en [@perez1994proceso] dice que son "de origen orgánico", es decir, se tratará con mucha probabilidad de **negro carbón**.
+En [@asperen1983algunas] afirma "sin determinar" el pigmento que usa, aunque en [@perez1994proceso] dice que son "de origen orgánico"; es decir, se tratará con mucha probabilidad de **negro carbón**.
 
 ### Dorados
 
