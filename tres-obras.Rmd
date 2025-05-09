@@ -8,12 +8,27 @@ bibliography: biblio.bib
 ---
 # Referencia: pigmentos usados en varias obras {#pigmentos}
 
-## Blanco de plomo {#bplomo}
+## Blancos
 
-El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo conocido desde la antigüedad. Palomino [@palomino] dice de él que
+### Blanco de plomo {#bplomo}
+
+El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plomo (es decir, carbonato de plomo en un compuesto de coordinación con hidróxido de plomo: 2 PbCO~3~·Pb(OH)~2~) conocido desde la antigüedad. Palomino [@palomino] dice de él que
 
 >... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
 
+### Carbonato cálcico o blanco de España {#ccalcio}
+
+Al carbonato cálcico (CaCO~3~) se le denomina también [@marai2007arte] blanco de San Juan [@cennini1859libro], creta blanca o blanco de cáscara. Cennini [@cennini1859libro] afirma:
+
+>  e sanza questo non puoi fare niente, come d'incarnazione, e'd altri mescolamenti degli altri colori che si fa in muro
+
+y describe en el capítulo LVIII como prepararlo a partir de la hidratación de la cal. En general, no se usa sino mezclado con otros colores para aclararlos.
+
+Pacheco [@pacheco1866arte] lo denomina *blanco de linda cal*, o *de Portugal* o *Marchena*, e indica, lo comenta en el contexto de la pintura al fresco, y dice que 
+
+> ... sirve en lugar de alvayalde, mesclada con los demas colores
+
+(Libro III, página 365)
 
 # Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
 
@@ -69,7 +84,7 @@ Adicionalmente, en los años 90 se le añadió un mecanismo basado en muelles, d
 
 ### Preparaciones
 
-La imprimación se ha hecho con una capa de carbonato cálcico (blanco de España) y cola [@SpringMarika2012TmoR]. La mezcla de blanco de España con colas animales se suele denominar *gesso* y ya se describió en el tratado de Cennino Cennini [@cennini1859libro]. En su capítulo CXV afirma sobre la preparación de una tabla:
+La imprimación se ha hecho con una capa de carbonato cálcico ([blanco de España](#ccalcio)) y cola [@SpringMarika2012TmoR]. La mezcla de blanco de España con colas animales se suele denominar *gesso* y ya se describió en el tratado de Cennino Cennini [@cennini1859libro]. En su capítulo CXV afirma sobre la preparación de una tabla:
 
 >  Poi abbi gèsso grosso, cioè volterrano, ch'è purgato, ed è tamigiato a modo di farina.
 
@@ -105,7 +120,7 @@ Los colores y los pigmentos correspondientes que se mencionan en el artículo an
 
 #### Blanco
 
-Para el blanco se usa [blanco de plomo]{#bplomo}, usado "con rigor" [@asperen1983algunas] y principalmente para las zonas de luz y paños claros
+Para el blanco se usa [blanco de plomo](#bplomo), usado "con rigor" [@asperen1983algunas] y principalmente para las zonas de luz y paños claros
 
 #### Carnaciones
 
@@ -118,7 +133,7 @@ En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferent
 Por lo tanto, la carnación es un resultado de varias capas de pintura, que de acuerdo con [@Metzger01011998], que las analizó para un retrato de Van der Weyden, pueden incluir:
 
 - **Rojo tierra** u **ocre**, es decir, óxido de hierro. 
-- **Blanco de España** o carbonato cálcico. Véase [referencia]{#ccalcio}
+- [**Blanco de España** o carbonato cálcico](#ccalcio)
 
 
 #### Negro
