@@ -34,7 +34,15 @@ Pacheco [@pacheco1866arte] lo denomina *blanco de linda cal*, o *de Portugal* o 
 
 # Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
 
-## Breve introducción histórica
+![Visión general de la cúpula del Sagrario de la Cartuja de Granada](cartuja.jpg)
+**Figura 1**: Cúpula del Sagrario del Monasterio de la Cartuja, foto del autor.
+
+La cúpula del Sagrario del Monasterio de la Cartuja es una pintura al fresco de Antonio Palomino de estilo barroco, realizada entre los años 1712 y 1720 [@roman2020pinturas].
+
+## Descrpipción general y contexto histórico
+
+Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesa por la técnica del fresco y a partir de ese momento desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, la última obra en la que trabajaría antes de su muerte y, por tanto, una obra en la que reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
+
 
 ## Materiales y técnicas de ejecución
 
@@ -50,7 +58,7 @@ Pacheco [@pacheco1866arte] lo denomina *blanco de linda cal*, o *de Portugal* o 
 # El Descendimiento de Roger van der Weyden, Museo Nacional del Prado
 
 ![El Descendimiento de Roger van der Weyden](Descendimiento.jpg)
-**Figura 1**: El Descendimiento de Van Der Weyden, imagen de dominio público [descargada de Wikimedia Commons](https://es.m.wikipedia.org/wiki/Archivo:El_Descendimiento,_by_Rogier_van_der_Weyden,_from_Prado_in_Google_Earth.jpg#).
+**Figura 2**: El Descendimiento de Van Der Weyden, imagen de dominio público [descargada de Wikimedia Commons](https://es.m.wikipedia.org/wiki/Archivo:El_Descendimiento,_by_Rogier_van_der_Weyden,_from_Prado_in_Google_Earth.jpg#).
 
 El Descendimiento es un óleo sobre tabla realizado por Rogier de la Pasture/van der Weyden^[versión francesa o flamenca del mismo nombre, que significa "de la vega"] entre 1535 y 1437 [@alcalde02].
 
