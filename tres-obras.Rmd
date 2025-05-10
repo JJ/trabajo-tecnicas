@@ -16,7 +16,7 @@ El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plo
 
 >... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
 
-Para Palomino [@palomino] se trata de uno de los colores "precisos y usuales", una de las cuatro categorías en las que dividía los pigmentos; estos pigmentos son aquellos necesarios en cualquier paleta por todas las posibilidades que tiene.
+Para Palomino [@palomino] se trata de uno de los colores "precisos y usuales", una de las cuatro categorías en las que dividía los pigmentos; esta categoría de pigmentos son aquellos necesarios en cualquier paleta por todas las posibilidades que tiene.
 
 ### Carbonato cálcico o blanco de España {#ccalcio}
 
@@ -104,7 +104,7 @@ Por su tendencia a ennegrecerse y también por mezclarse mal con otros pigmentos
 
 [@asperen1983algunas] presenta un panorama bastante completo del dibujo subyacente en las diferentes partes del cuadro. Se da con pinceladas ligeras que no siempre corresponden con la superficie pictórica, usando técnicas específicas para las sombras, trazos "de tipo colmillo" (para superficies planas) y líneas paralelas para formas más profundas. Donde menos diferencia hay con el dibujo subyacente es la ropa; en las caras, sin embargo, hay muy poca coincidencia. 
 
-También hay algunas correcciones en posiciones del cuerpo y en la ropa que se pueden apreciar en los diferentes reflectogramas infrarrojos realizados y presentados en el trabajo anterior. 
+También hay algunas correcciones en posiciones del cuerpo y en la ropa que se pueden apreciar en los diferentes reflectogramas infrarrojos realizados y presentados en el trabajo anterior. Por otro lado, este dibujo no está presente en todas las tablas del cuadro [@perez1994proceso, p. 238].
 
 No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, pero en esta época se hacía normalmente con carboncillo. En todo caso, se encuentra al parecer debajo de la imprimatura y encima de la capa de preparación de yeso.
 
@@ -155,7 +155,7 @@ A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el a
 
 Como en esos la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la **azurita** [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](@bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli.
 
-La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennino1859libro]:
+La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennini1859libro]:
 
 > Nasce molto nella Magna, e ancora in quel di Siena
 
