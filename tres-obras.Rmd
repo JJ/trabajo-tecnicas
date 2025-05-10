@@ -157,7 +157,7 @@ El negro se usa tanto en la ropa, por ejemplo el turbante de José de Arimatea, 
 
 A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el azul se usa casi exclusivamente en el manto de la Virgen, con el rico tono característico tanto en *compianti* como en toda la representación renacentista de la Virgen.
 
-Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la **azurita** [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](@bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
+Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la **azurita** [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
 
 La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennini1859libro]:
 
@@ -176,6 +176,19 @@ Sigue comentando que se machaque en un mortero cubierto,
 para que no se pierda ni siquiera el polvo. 
 
 Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el precio del azul ultramarino es posible que el maestro supervisara tanto su adquisición, en ocasiones pagando por parte de quien financia la obra el viaje a Venecia, como su preparación. Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquiera del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
+
+#### Verde
+
+El verde lo encontramos sobre todo en el suelo, representado de forma muy esquemática, y en diferentes tonos en los mantos de la Magdalena y de María Salomé. Según [@asperen1983algunas] se trata de **resinato de cobre**, es decir, **verdigris**, también denominado **cardenillo*. A veces se le llama también [@marai2007arte] acetato de cobre; dependiendo de su obtención: aplicación de resinas calientes a una sal de cobre (resinato) o disolución de cobre en vinagre o vino pasado (acetato). En la misma obra se cita como fórmula Cu(CH3-COO)~2~·2Cu(OH)~2~, aunque la composición dependerá del proceso seguido; en todo caso, es un pigmento de cobre, cuya fórmula y obtención se conoce desde la antigüedad.
+
+#### Naranja
+
+Encontrado principalmente en las mangas del vestido de la magdalena y en las calzas de Nicodemo, [@asperen1983algunas] afirma que se trata de **bermellón de mercurio**, se diferencia del *cinabrio* principalmente por su obtención artificial a base de azufre y mercurio en vez de su origen natural; efectivamente, su fórmula es HgS.
+
+Este color naranja, un color cálido situado precisamente en la figura que sostiene a Cristo y la que está a sus pies, crea un fuerte contraste con los colores fríos del resto del cuadro, especialmente los tonos de piel pálidos de Cristo. Una vez más y en el marco de la *devotio moderna*, Van der Weyden usa los tonos de color para acentuar el sufrimiento y lograr la empatía por parte del espectador.
+
+
+
 
 
 
