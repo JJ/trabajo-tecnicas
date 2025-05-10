@@ -116,6 +116,8 @@ Como es lo habitual en el óleo, se usa aceite de linaza como aglutinante. En es
 
 El óleo, que se comenzó a usar por primera vez de forma extensiva por parte de los primitivos flamencos, que por primera vez lo emplearon para *toda* la pintura, les permitió desarrollar *sistemas de pintura* [@bol2012painting] específicos para carnación y también el agua con los cuales alcanzaron nuevas cotas de realismo. Estos sistemas incluían desde la imprimación hasta diferentes capas de veladuras, como veremos en el apartado correspondiente.
 
+El aceite de linaza, al tener un índice de refracción similar a los pigmentos más vivos tales como el azul ultramarino [@Krauth78], permite ver la luz reflejada por tales pigmentos en toda su calidad y vivacidad; si los índices refractivos del pigmento son similares a los del medio se intensifica el color.
+
 ### Pigmentos
 
 Los pigmentos usados están sacados de [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un planos que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
