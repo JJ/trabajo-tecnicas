@@ -200,12 +200,26 @@ Junto con el marrón, forma parte de la vestimenta de José de Arimatea. En este
 
 El rojo, evidente sobre todo en la vestimenta de San Juan Evangelista, está hecho [@asperen1983algunas] de laca orgánica roja y bermellón de mercurio, un componente que aparece también en el [naranja](#naranja).
 
-
-
-
 ### Dorados
 
-### Barnices
+Se aplica sobre todo al fondo, tratando de reflejar esa luz divina que ilumina de forma uniforme toda la escena; según [@asperen1983algunas] se trata de **hoja de oro**.
+
+La técnica de dorado que usa es **dorado al agua**, lo que se aprecia por el bruñido que aparece de forma evidente en las imágenes de alta resolución. Esta técnica de dorado se conoce desde la antigüedad, y aparede también en los tratados de Cennini [@cennini1859libro].
+
+### Veladuras y barnices
+
+Van der Weyden y los primitivos flamencos en general obtienen diferentes tonos y sombras a base de veladuras, aplicando nuevas capas sobre el óleo todavía sin secar, cubriendo con barniz, y volviendo a pintar encima; con esta técnica, por ejemplo, que combina capas de azurita con otras de azul ultramarino se pinta el manto de la virgen. El barniz intermedio que se usa puede ser sandaraca u otro barniz de resina natural [@asperen1983algunas].
+
+En el mismo artículo describe como se consigue el color malva del vestido de María Magdalena (en lo que aprece el manto o sobrefalda). Sobre el dibujo y la preparación de color gris carne hay:
+
+* Una capa de fondo rosada con azurita, laca orgánica roja y [blanco de plomo](#bplomo).
+* Pintura grisácea
+* Pintura malva que mezcla azul ultramarino con laca orgánica roja y blanco de plomo.
+* Repintado y barniz
+
+Cabría destacar que estos repintados, realizados por El Mudo en parte durante su restauración [@veliz2016caring], fueron prohibidos explícitamente sobre el manto de la virgen; por eso las microfotografías de estas partes del cuadro reflejan exclusivamente los originales.
+
+En resumen: Van der Weyden consigue el color, sus matices y sus sombras a base de múltiplas imágenes de veladuras aplicadas "al secco" sobre las anteriores, una vez secado el barniz que las recubre. En las microfotografías que se han hecho de esta pintura se ve claramente. Esta es una técnica más tradicional que la técnica del óleo "alla prima" usada por Van Eyck, que aplica nuevas capas sobre el óleo todavía húmedo; dado que se trata de una de las primeras pinturas conocidas de Van der Weyden, la maestría requerida por este tipo de técnica todavía no la habría podido conseguir.
 
 
 # La coronación de la Virgen, Diego Rodríquez de Silva y Velázquez, Museo Nacional del Prado
