@@ -81,22 +81,54 @@ Cosa que, por otro lado, está confirmada en la explicación de la nota 3 a pie 
 > [Palomino usa] técnicas de ejecución artística diferentes a las tradicionalmente empleadas en la
 realización de pintura al fresco
 
-Por lo tanto, los morteros preparatorios usarían en su primera capa *yeso* y a continuación un *intonaco* de cal y de arena, dispuestas en tres capas [@BoschRoig]:
+Por lo tanto, los morteros preparatorios usarían en su primera capa *yeso* y a continuación un *intonaco* de cal y de arena, dispuestas en tres capas [@BoschRoig] aparte del dibujo preparatorio y jornadas:
 
 * Una enfoscado de yeso sobre el muro de ladrillo, que tendría "yeso, anhidrita, basanita, calcita y cuarzo".
 * Una segunda capa de yeso sobre la anterior, la capa de *arriccio*, con la misma composición
+* Entre esta capa y la siguiente se ha encontrado en el caso de los Santos Juanes una capa de tierra roja o sinopia, que incluye el dibujo preparatorio; como es habitual, el dibujo preparatorio está *por debajo* de la última capa sobre la que se aplica directamente la pintura.
 * Una tercera capa de calcita y cuarzo que usa mortero de cal como aglomerante y arena como carga inerte, llamada *estuque* por el propio Palomino. Sobre esta última se aplicaría directamente la pintura.
-
-
-
-
-
 
 ### Dibujo preparatorio
 
-### Técnica pictórica
+Segun Bosch Roig [@BoschRoig] el boceto se realiza sobre cartón, y luego se traslada a base de incisiones usando un lápiz o punzón. En el mismo artículo se afirma que se usa **sinopia** o tierra roja tanto para este boceto como para el trazado de las jornadas.
 
 ### Pigmentos
+
+Una vez más, no se conocen específicamente los colores usados en esta cúpula, así que tenemos que guiarnos tanto por el estudio que se ha hecho de los Santos Juanes [@BoschRoig] como de la propia guía de Palomino [@palomino], en la sección V del capítulo mencionado anteriormente; este afirma que todos los pigmentos son minerales. Se especifican a continuación.
+
+#### Blanco
+
+Usa simplemente cal sola, o **blanco de cal**; también se ha encontrado mármol blanco o alab astro molido.
+
+#### Amarillo
+
+Usó **amarillo de Nápoles** u **hornaza**
+
+#### Ocres
+
+**Ocres amarillos o rojizos** y pigmento tierra con carbonato de plomo
+
+#### Azul
+
+**Azul de montaña** y **azul ultramar** y **azul esmalte**. A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo lo mezcla con yeso y albayalde a partes iguales.
+
+#### Rojo
+
+Carmín y tierra roja
+
+#### Verde
+
+Tierra verde
+
+### Dorados
+
+Según Bosch Roig [@BoschRogig]:
+
+> Finas láminas de oro fijado mediante un adhesivo (barniz, esencia de trementina, pez griega y cera de abeja)
+
+### Retoques
+
+En la pintura al fresco no se usan veladuras, pero sí retoques, en muchos casos *al secco*. Según Bosch Roig, se aplican retoques con un aglutinante proteico tal como la caseína de la leche; también se usa lámina de oro para zonas con brillo. En la Cartuja se pueden identificar este tipo de zonas doradas en el cáliz que lleva la Fe, en la custodia sobre el mundo que sujeta San Bruno y en la corona de la Virgen, aunque es posible que, como indica Bosch Roig, se use solo en las zonas brillantes. Véase en todo caso la sección sobre [dorados](#dorados) para ver la técnica que se usa para aplicar los mismos.
 
 
 # El Descendimiento de Roger van der Weyden, Museo Nacional del Prado
