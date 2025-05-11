@@ -74,7 +74,7 @@ Palomino era un verdadero experto tanto en la teoría como en la práctica de la
 
 > [...] no es para copiantes, ni pintores tímidos.
 
-### Tipos de mortero
+### Preparaciones
 
 En la tesis de la doctora honoris causa por la UGR Pilar Roig [@Roig90] y una vez más en la tesis de la ahora doctora Soriano Sancho [@soriano2008frescos] se afirma:
 
@@ -98,11 +98,17 @@ Por lo tanto, los morteros preparatorios usarían en su primera capa *yeso* y a 
 * Una enfoscado de yeso sobre el muro de ladrillo, que tendría "yeso, anhidrita, basanita, calcita y cuarzo".
 * Una segunda capa de yeso sobre la anterior, la capa de *arriccio*, con la misma composición
 * Entre esta capa y la siguiente se ha encontrado en el caso de los Santos Juanes una capa de tierra roja o sinopia, que incluye el dibujo preparatorio; como es habitual, el dibujo preparatorio está *por debajo* de la última capa sobre la que se aplica directamente la pintura.
-* Una tercera capa de calcita y cuarzo que usa mortero de cal como aglomerante y arena como carga inerte, llamada *estuque* por el propio Palomino. Sobre esta última se aplicaría directamente la pintura.
+* Una tercera capa, *intonaco*, de calcita y cuarzo que usa mortero de cal como aglomerante y arena como carga inerte, llamada *estuque* por el propio Palomino. Sobre esta última se aplicaría directamente la pintura.
+
+En la tesis de Soriano Sancho [@soriano2008frescos] se presenta en la figura 8, página 30, un esquema de esta preparación.
 
 ### Dibujo preparatorio
 
 Segun Bosch Roig [@BoschRoig] el boceto se realiza sobre cartón, y luego se traslada a base de incisiones usando un lápiz o punzón. En el mismo artículo se afirma que se usa **sinopia** o tierra roja tanto para este boceto como para el trazado de las jornadas.
+
+### Aglutinantes
+
+El fresco usa, en general, la propia cal del mortero como aglutinante. En el caso de los Santos Juanes, Sánchez Pons en su tesis [@SanchezPons, p. 31] afirma que se usa también cola animal en los retoques al seco y en los dorados; Soriano Sancho [@soriano2008frescos, p. 94 ] indica que se usa caseína de la leche.
 
 ### Pigmentos
 
