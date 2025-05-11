@@ -37,7 +37,7 @@ Sigue comentando que se machaque en un mortero cubierto,
 
 > perchè non ti vada via il polvere,
 
-para que no se pierda ni siquiera el polvo. Palomino en su clasificación [@palomino] lo incluye en la el tipo "extraordinario", de los que no se gastan habitualmente. Eso no impidió que lo usara de forma habitual en sus pinturas.
+para que no se pierda ni siquiera el polvo. Palomino en su clasificación [@palomino] lo incluye en la el tipo "extraordinario", de los que no se gastan habitualmente. Eso no impidió que lo usara de forma habitual en sus pinturas, aunque nunca en exteriores, por su inestabilidad y tendencia a fusionarse con la cal.
 
 Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el precio del azul ultramarino es posible que el maestro supervisara tanto su adquisición, en ocasiones pagando por parte de quien financia la obra el viaje a Venecia, como su preparación. 
 
@@ -136,7 +136,7 @@ Una vez más, no se conocen específicamente los colores usados en esta cúpula,
 
 #### Blanco
 
-Usa simplemente cal sola, o **blanco de cal**; también se ha encontrado mármol blanco o alab astro molido.
+Usa simplemente cal sola, o **blanco de cal**; también se ha encontrado mármol blanco o alabastro molido.
 
 #### Amarillo
 
@@ -148,7 +148,7 @@ Usó **amarillo de Nápoles** u **hornaza**
 
 #### Azul
 
-**Azul de montaña** (es decir, [azurita](#azurita)), **azul ultramar** y **azul esmalte**. A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo lo mezcla con yeso y albayalde a partes iguales.
+**Azul de montaña** (es decir, [azurita](#azurita)), [**azul ultramar**](#ultramar) y **azul esmalte**. A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo lo mezcla con yeso y albayalde a partes iguales.
 
 #### Rojo
 
@@ -279,7 +279,7 @@ El negro se usa tanto en la ropa, por ejemplo el turbante de José de Arimatea, 
 
 A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el azul se usa casi exclusivamente en el manto de la Virgen, con el rico tono característico tanto en *compianti* como en toda la representación renacentista de la Virgen.
 
-Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
+Como en la mayoría de esos casos, se usa el [**azul ultramar**](#ultramar) para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
 
 Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquiera del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
 
