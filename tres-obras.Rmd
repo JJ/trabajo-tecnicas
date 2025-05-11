@@ -64,6 +64,32 @@ Palomino era un verdadero experto tanto en la teoría como en la práctica de la
 
 ### Tipos de mortero
 
+En la tesis de la doctora honoris causa por la UGR Pilar Roig [@Roig90] y una vez más en la tesis de la ahora doctora Soriano Sancho [@soriano2008frescos] se afirma:
+
+> La obra presenta unas características particulares, pues, habiendo sido pintadas al fresco, sobre intonaco de cal y arena, presenta unos morteros preparatorios internos a base de yeso -y no de cal- como cabría esperar en una ortodoxa técnica al "buon fresco".
+
+La frase entre guiones (y entre paréntesis en la tesis original) parece que indica que:
+
+> La obra presenta [...] unos morteros preparatorios internos a base de yeso [...] como cabría esperar en una ortodoxa técnica al "buon fresco"
+
+El *buon fresco*, sin embargo, usa cal en la primera capa. En comunicación personal con la doctora Roig por correo electrónico me ha confirmado que la frase se debía de entender de esta forma:
+
+> La obra presenta unas características particulares, pues, habiendo sido pintadas al fresco, sobre intonaco de cal y arena, presenta unos morteros preparatorios internos a base de yeso, y no de cal como cabría esperar en una ortodoxa técnica al "buon fresco".
+
+Cosa que, por otro lado, está confirmada en la explicación de la nota 3 a pie de página de la tesis de la doctora Soriano [@soriano2008frescos], que dice:
+
+> [Palomino usa] técnicas de ejecución artística diferentes a las tradicionalmente empleadas en la
+realización de pintura al fresco
+
+Por lo tanto, los morteros preparatorios usarían en su primera capa *yeso* y a continuación un *intonaco* de cal y de arena, dispuestas en tres capas [@BoschRoig]:
+
+* Una enfoscado de yeso sobre el muro de ladrillo, que tendría "yeso, anhidrita, basanita, calcita y cuarzo".
+* Una segunda capa de yeso sobre la anterior, la capa de *arriccio*, con la misma composición
+* Una tercera capa de calcita y cuarzo que usa mortero de cal como aglomerante y arena como carga inerte, llamada *estuque* por el propio Palomino. Sobre esta última se aplicaría directamente la pintura.
+
+
+
+
 
 
 ### Dibujo preparatorio
