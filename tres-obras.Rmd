@@ -217,7 +217,9 @@ Este pigmento se encuentra sobre todo en la vestimenta de José de Arimatea; seg
 
 #### Amarillo
 
-Junto con el marrón, forma parte de la vestimenta de José de Arimatea. En este caso, [@asperen1983algunas] habla de **amarillo de plomo y de estaño**, 
+Junto con el marrón, forma parte de la vestimenta de José de Arimatea. En este caso, [@asperen1983algunas] habla de **amarillo de plomo y de estaño**. Ramírez Barat el al. [@barat2002identificacion] afirma que se trata de PbSnO~3~, aunque con partículas de dióxido de estaño^[Hay dos variadades de este tipo de óxido; Ramírez Barat afirma que en este caso se ha demostrado qu ese trata del tipo II, con la fórmula indicada].
+
+Hay bastante confusión en la literatura entre este pigmento y el **amarillo de Nápoles**, que es un simple óxido de plomo; el artículo anterior indica que se correspondería con el **hornaza**, creado a partir de restos de cerámica, de Palomino [@palomino], aunque este último indica (Sección VI, Capítulo IV, libro séptimo) que se usaría principalmente para el fresco, no el óleo.
 
 
 #### Rojo
