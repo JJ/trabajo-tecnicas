@@ -19,7 +19,27 @@ La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(
 
 De hecho, hoy en día se puede encontrar en muchos lugares, incluyendo Jerez del Marquesado en Granada, generalmente asociado a la malaquita (de color verde, un simple carbonato de cobre con un grupo CO menos).
 
-Es un color que se mantiene estable, aunque la cal del fresco puede afectarlo, por eso Cennini [@cennini1859libro] dice que se use *al secco*. 
+Es un color que se mantiene estable, aunque la cal del fresco puede afectarlo, por eso Cennini [@cennini1859libro] dice que se use *al secco*.
+
+### Azul ultramar {#ultramar}
+
+El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afghanistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
+
+Parrilla en su tesis [@marai2007arte, p. 91] indica que revela
+
+> el deseo de manifestar piedad sin reparar en gastos.
+
+Cennino se extiende en elogios ("ne voglio parlare largo") sobre el lapislázuli [@cennini1859libro]. Le dedica todo el capítulo LXII de su libro, diciendo de él:
+
+> Azzurro oltramarino si è un colore nobile, bello, perfettissimo oltre a tutti i colori.
+
+Sigue comentando que se machaque en un mortero cubierto, 
+
+> perchè non ti vada via il polvere,
+
+para que no se pierda ni siquiera el polvo. Palomino en su clasificación [@palomino] lo incluye en la el tipo "extraordinario", de los que no se gastan habitualmente. Eso no impidió que lo usara de forma habitual en sus pinturas.
+
+Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el precio del azul ultramarino es posible que el maestro supervisara tanto su adquisición, en ocasiones pagando por parte de quien financia la obra el viaje a Venecia, como su preparación. 
 
 ## Blancos
 
@@ -261,19 +281,7 @@ A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el a
 
 Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
 
-El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afghanistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
-
-Cennino se extiende en elogios ("ne voglio parlare largo") sobre el lapislázuli [@cennini1859libro]. Le dedica todo el capítulo LXII de su libro, diciendo de él:
-
-> Azzurro oltramarino si è un colore nobile, bello, perfettissimo oltre a tutti i colori.
-
-Sigue comentando que se machaque en un mortero cubierto, 
-
-> perchè non ti vada via il polvere,
-
-para que no se pierda ni siquiera el polvo. 
-
-Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el precio del azul ultramarino es posible que el maestro supervisara tanto su adquisición, en ocasiones pagando por parte de quien financia la obra el viaje a Venecia, como su preparación. Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquiera del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
+Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquiera del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
 
 #### Verde
 
