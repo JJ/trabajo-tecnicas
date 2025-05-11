@@ -9,6 +9,16 @@ csl: chicago-fullnote-bibliography-with-ibid.csl
 ---
 # Referencia: pigmentos usados en varias obras {#pigmentos}
 
+## Azules
+
+### Azurita {#azurita}
+
+La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" o "azul de montaña" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennini1859libro]:
+
+> Nasce molto nella Magna, e ancora in quel di Siena
+
+Es un color que se mantiene estable, aunque la cal del fresco puede afectarlo, por eso Cennini [@cennini1859libro] dice que se use *al secco*. 
+
 ## Blancos
 
 ### Blanco de plomo {#bplomo}
@@ -122,7 +132,7 @@ Tierra verde
 
 ### Dorados
 
-Según Bosch Roig [@BoschRogig]:
+Según Bosch Roig [@BoschRoig]:
 
 > Finas láminas de oro fijado mediante un adhesivo (barniz, esencia de trementina, pez griega y cera de abeja)
 
@@ -243,9 +253,7 @@ A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el a
 
 Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la **azurita** [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
 
-La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennini1859libro]:
 
-> Nasce molto nella Magna, e ancora in quel di Siena
 
 El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afghanistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
 
