@@ -115,7 +115,7 @@ La imprimación se ha hecho con una capa de carbonato cálcico ([blanco de Espa�
 
 A este tipo de imprimación, *imprimación a la creta* por el mineral que se machaca para obtener el carbonato cálcico [@thompson1956materials]. Este tipo de preparación para tabla se popularizó en Italia desde el siglo anterior, y se adoptó en otras escuelas pictóricas. 
 
-Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo (véase [la referencia sobre el mismo](#bplomo)) con pigmento rojo opaco (minio) y algún negro ([@SpringMarika2012TmoR] citando a [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes. Esta capa de imprimación es necesaria para que la la capa inicial no absorba demasiados pigmentos de las capas pictóricas [@Krauth78].
+Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuación) hay una capa de *imprimatura* de blanco de plomo (véase [la referencia sobre el mismo](#bplomo)) con pigmento rojo opaco (minio) y algún negro (como afirma Spring [@SpringMarika2012TmoR] citando a Garrido Perez et al.  [@perez1994proceso]). Esta capa tendría un color gris rosáceo, según la fuente, seguramente contribuyendo sobre todo a las carnaduras de los diferentes personajes. Esta capa de imprimación es necesaria para que la la capa inicial no absorba demasiados pigmentos de las capas pictóricas [@Krauth78].
 
 Las imprimaturas basadas en plomo son, con diferentes combinaciones, habituales en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
 
@@ -125,7 +125,7 @@ Por su tendencia a ennegrecerse y también por mezclarse mal con otros pigmentos
 
 ### Dibujo subyacente
 
-[@asperen1983algunas] presenta un panorama bastante completo del dibujo subyacente en las diferentes partes del cuadro. Se da con pinceladas ligeras que no siempre corresponden con la superficie pictórica, usando técnicas específicas para las sombras, trazos "de tipo colmillo" (para superficies planas) y líneas paralelas para formas más profundas. Donde menos diferencia hay con el dibujo subyacente es la ropa; en las caras, sin embargo, hay muy poca coincidencia. 
+El artículo de Asperen et al. [@asperen1983algunas] presenta un panorama bastante completo del dibujo subyacente en las diferentes partes del cuadro. Se da con pinceladas ligeras que no siempre corresponden con la superficie pictórica, usando técnicas específicas para las sombras, trazos "de tipo colmillo" (para superficies planas) y líneas paralelas para formas más profundas. Donde menos diferencia hay con el dibujo subyacente es la ropa; en las caras, sin embargo, hay muy poca coincidencia. 
 
 También hay algunas correcciones en posiciones del cuerpo y en la ropa que se pueden apreciar en los diferentes reflectogramas infrarrojos realizados y presentados en el trabajo anterior. Por otro lado, este dibujo no está presente en todas las tablas del cuadro [@perez1994proceso, p. 238].
 
@@ -141,7 +141,7 @@ El aceite de linaza, al tener un índice de refracción similar a los pigmentos 
 
 ### Pigmentos
 
-Los pigmentos usados están sacados de [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un planos que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
+Los pigmentos usados están sacados del artículo de Asperen et al. [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un planos que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
 
 Los colores y los pigmentos correspondientes que se mencionan en el artículo anterior con:
 
@@ -170,7 +170,7 @@ Aunque todos estos colores se han encontrado en otra pintura del mismo autor ana
 
 #### Negro
 
-En [@asperen1983algunas] afirma "sin determinar" el pigmento que usa, aunque en [@perez1994proceso] dice que son "de origen orgánico"; es decir, se tratará con mucha probabilidad de **negro carbón**.
+En el artículo de Asperen et al. [@asperen1983algunas] afirma "sin determinar" el pigmento que usa, aunque el de Pérez Garrido et al. [@perez1994proceso] dice que son "de origen orgánico"; es decir, se tratará con mucha probabilidad de **negro carbón**.
 
 El negro se usa tanto en la ropa, por ejemplo el turbante de José de Arimatea, como en el pelo de algunos personajes, Cristo y San Juan Evangelista, así como para las sombras en todo el cuadro. Como se ha visto también en la [sección sobre las carnaciones](#carnaciones), también se combina con otros colores para conseguir diferentes tonos de piel.
 
@@ -200,7 +200,7 @@ Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el 
 
 #### Verde
 
-El verde lo encontramos sobre todo en el suelo, representado de forma muy esquemática, y en diferentes tonos en los mantos de la Magdalena y de María Salomé. Según [@asperen1983algunas] se trata de **resinato de cobre**, es decir, **verdigris**, también denominado **cardenillo*. A veces se le llama también [@marai2007arte] acetato de cobre; dependiendo de su obtención: aplicación de resinas calientes a una sal de cobre (resinato) o disolución de cobre en vinagre o vino pasado (acetato). En la misma obra se cita como fórmula Cu(CH3-COO)~2~·2Cu(OH)~2~, aunque la composición dependerá del proceso seguido; en todo caso, es un pigmento de cobre, cuya fórmula y obtención se conoce desde la antigüedad.
+El verde lo encontramos sobre todo en el suelo, representado de forma muy esquemática, y en diferentes tonos en los mantos de la Magdalena y de María Salomé. Según Asperen et al. [@asperen1983algunas] se trata de **resinato de cobre**, es decir, **verdigris**, también denominado **cardenillo**. A veces se le llama también [@marai2007arte] acetato de cobre; dependiendo de su obtención: aplicación de resinas calientes a una sal de cobre (resinato) o disolución de cobre en vinagre o vino pasado (acetato). En la misma obra se cita como fórmula Cu(CH3-COO)~2~·2Cu(OH)~2~, aunque la composición dependerá del proceso seguido; en todo caso, es un pigmento de cobre, cuya fórmula y obtención se conoce desde la antigüedad.
 
 #### Naranja
 
@@ -210,7 +210,7 @@ Este color naranja, un color cálido situado precisamente en la figura que sosti
 
 #### Marrón
 
-Este pigmento se encuentra sobre todo en la vestimenta de José de Arimatea; según [@asperen1983algunas] se trata de óxidos de hierro, pudiendo tratarse de Fe~2~O~3~ con alguna mezcla^[El color marrón del hierro está asociado al estado de oxidación +3, es decir, Fe(III). Mezclado con otros óxidos puede rebajarse la tonalidad a un marrón más amarillento. El mineral más común con este color es la hematita, con un color marrón rojizo o rojo oscuro (sangre). El índice refractivo de este óxido es casi el doble que el del aceite de linaza, por lo que el color percibido en un cuadro cambiará con respecto al índice natural, haciendo más opaco el material que por tanto se percibirá como más oscuro al no dejar pasar la luz reflejada por la capa de imprimación de color claro].
+Este pigmento se encuentra sobre todo en la vestimenta de José de Arimatea; según el artículo de Asperen et al. [@asperen1983algunas] se trata de óxidos de hierro, pudiendo tratarse de Fe~2~O~3~ con alguna mezcla^[El color marrón del hierro está asociado al estado de oxidación +3, es decir, Fe(III). Mezclado con otros óxidos puede rebajarse la tonalidad a un marrón más amarillento. El mineral más común con este color es la hematita, con un color marrón rojizo o rojo oscuro (sangre). El índice refractivo de este óxido es casi el doble que el del aceite de linaza, por lo que el color percibido en un cuadro cambiará con respecto al índice natural, haciendo más opaco el material que por tanto se percibirá como más oscuro al no dejar pasar la luz reflejada por la capa de imprimación de color claro].
 
 #### Amarillo
 
@@ -223,7 +223,7 @@ El rojo, evidente sobre todo en la vestimenta de San Juan Evangelista, está hec
 
 ### Dorados
 
-Se aplica sobre todo al fondo, tratando de reflejar esa luz divina que ilumina de forma uniforme toda la escena; según [@asperen1983algunas] se trata de **hoja de oro**.
+Se aplica sobre todo al fondo, tratando de reflejar esa luz divina que ilumina de forma uniforme toda la escena; según Asperen et al. [@asperen1983algunas] se trata de **hoja de oro**.
 
 La técnica de dorado que usa es **dorado al agua**, lo que se aprecia por el bruñido que aparece de forma evidente en las imágenes de alta resolución. Esta técnica de dorado se conoce desde la antigüedad, y aparede también en los tratados de Cennini [@cennini1859libro].
 
