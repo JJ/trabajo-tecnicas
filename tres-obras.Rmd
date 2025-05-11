@@ -122,7 +122,7 @@ Usó **amarillo de Nápoles** u **hornaza**
 
 #### Azul
 
-**Azul de montaña** y **azul ultramar** y **azul esmalte**. A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo lo mezcla con yeso y albayalde a partes iguales.
+**Azul de montaña** (es decir, [azurita](#azurita)), **azul ultramar** y **azul esmalte**. A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo lo mezcla con yeso y albayalde a partes iguales.
 
 #### Rojo
 
@@ -253,9 +253,7 @@ El negro se usa tanto en la ropa, por ejemplo el turbante de José de Arimatea, 
 
 A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el azul se usa casi exclusivamente en el manto de la Virgen, con el rico tono característico tanto en *compianti* como en toda la representación renacentista de la Virgen.
 
-Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la **azurita** [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
-
-
+Como en la mayoría de esos casos, se usa el **azul ultramar** para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de lapislázuli].
 
 El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afghanistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
 
@@ -304,11 +302,11 @@ La técnica de dorado que usa es **dorado al agua**, lo que se aprecia por el br
 
 ### Veladuras y barnices
 
-Van der Weyden y los primitivos flamencos en general obtienen diferentes tonos y sombras a base de veladuras, aplicando nuevas capas sobre el óleo todavía sin secar, cubriendo con barniz, y volviendo a pintar encima; con esta técnica, por ejemplo, que combina capas de azurita con otras de azul ultramarino se pinta el manto de la virgen. El barniz intermedio que se usa puede ser sandaraca u otro barniz de resina natural [@asperen1983algunas].
+Van der Weyden y los primitivos flamencos en general obtienen diferentes tonos y sombras a base de veladuras, aplicando nuevas capas sobre el óleo todavía sin secar, cubriendo con barniz, y volviendo a pintar encima; con esta técnica, por ejemplo, que combina capas de [azurita](#azurita) con otras de azul ultramarino se pinta el manto de la virgen. El barniz intermedio que se usa puede ser sandaraca u otro barniz de resina natural [@asperen1983algunas].
 
 En el mismo artículo describe como se consigue el color malva del vestido de María Magdalena (en lo que aprece el manto o sobrefalda). Sobre el dibujo y la preparación de color gris carne hay:
 
-* Una capa de fondo rosada con azurita, laca orgánica roja y [blanco de plomo](#bplomo).
+* Una capa de fondo rosada con [azurita](#azurita), laca orgánica roja y [blanco de plomo](#bplomo).
 * Pintura grisácea
 * Pintura malva que mezcla azul ultramarino con laca orgánica roja y blanco de plomo.
 * Repintado y barniz
