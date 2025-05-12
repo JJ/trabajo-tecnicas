@@ -1,0 +1,6 @@
+@book{y1992velazquez,
+  title={Vel{\'a}zquez: tecnica y evoluci{\'o}n},
+  author={y Vel{\'a}zquez, Diego Rodriguez de Silva},
+  year={1992},
+  publisher={Museo del Prado}
+}
