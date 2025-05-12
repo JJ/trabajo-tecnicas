@@ -128,7 +128,7 @@ Por lo tanto, los morteros preparatorios usarían en su primera capa *yeso* y a 
 
 * Una enfoscado de yeso sobre el muro de ladrillo, que tendría "yeso, anhidrita, basanita, calcita y cuarzo".
 * Una segunda capa de yeso sobre la anterior, la capa de *arriccio*, con la misma composición
-* Entre esta capa y la siguiente se ha encontrado en el caso de los Santos Juanes una capa de [tierra roja o sinopia](#sinopia), que incluye el dibujo preparatorio; como es habitual, el dibujo preparatorio está *por debajo* de la última capa sobre la que se aplica directamente la pintura.
+* Entre esta capa y la siguiente se ha encontrado en el caso de los Santos Juanes una capa de [tierra roja o sinopia](#almagre), que incluye el dibujo preparatorio; como es habitual, el dibujo preparatorio está *por debajo* de la última capa sobre la que se aplica directamente la pintura.
 * Una tercera capa, *intonaco*, de calcita y cuarzo que usa mortero de cal como aglomerante y arena como carga inerte, llamada *estuque* por el propio Palomino. Sobre esta última se aplicaría directamente la pintura.
 
 En la tesis de Soriano Sancho [@soriano2008frescos] se presenta en la figura 8, página 30, un esquema de esta preparación.
@@ -161,11 +161,11 @@ Palomino lo usa de forma bastante extensiva para los fondos dorados, y en mezcla
 
 En esta obra se usa, como es natural, en el manto de la Virgen, pero también se ven trazas de este azul en un jarrón encima de un medallón y en alguna otra vestimenta, por ejemplo de un ángel.
 
-El azul esmalte, también llamado *cerúleo* [@marai2007arte] es, aparentemente, usado en el cielo y de forma extensiva. Es un silicato potásico con óxido de cobalto, con este último metal responsable del color azul; como tal y por su similitud con el cielo se usa habitualmente para expresar la idea de infinito [@clari2018secret]. En esta obra se usa para crear un fondo de color frío que lance hacia el primer plano las figuras y las nubes doradas en las que se encuentran, acercándolas a la persona que está abajo en adoración.
+El azul esmalte, también llamado *cerúleo* [@marai2007arte] es, aparentemente, usado en el cielo y de forma extensiva. Es un silicato potásico con óxido de cobalto, con este último metal responsable del color azul; como tal y por su similitud con el cielo se usa habitualmente para expresar la idea de infinito [@clair2018secret]. En esta obra se usa para crear un fondo de color frío que lance hacia el primer plano las figuras y las nubes doradas en las que se encuentran, acercándolas a la persona que está abajo en adoración.
 
 #### Rojo
 
-El rojo se usa de forma bastante extensiva en las vestimentas de los santos, ángeles y la Virgen; en el caso de San Juan Bautista y la Virgen tratan de simbolizar la pasión. Los pigmentos que se usan son **carmín** (del tipo albín o pavonazo) y [**tierra roja**](#sinopia); también se usa como parte de una mezcla para crear rosas, tan característicos del barroco, malvas y morados.
+El rojo se usa de forma bastante extensiva en las vestimentas de los santos, ángeles y la Virgen; en el caso de San Juan Bautista y la Virgen tratan de simbolizar la pasión. Los pigmentos que se usan son **carmín** (del tipo albín o pavonazo) y [**tierra roja**](#almagre); también se usa como parte de una mezcla para crear rosas, tan característicos del barroco, malvas y morados.
 
 El albín o pavonazo es un óxido de hierro que se usa para emular al carmín en el fresco [@marai2007arte] y como parte de la mezcla que se usa para crear las carnaciones [@palomino, p. 153]. Dado que por ese nombre^[En realidad, escrito *pabonazo*] solo aparece en el tratado de Palomino [@palomino], que no se caracterizaba precisamente por la precisión química (entre otras cosas porque la formulación todavía no se había inventado), es difícil saber la composición exacta del mismo, aunque el color rojo oscuro es característico de los óxidos de hierro en su estado de oxidación 3, así que es posible que se trate de Fe~2~O~3~.
 
