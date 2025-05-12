@@ -167,11 +167,15 @@ El rojo se usa de forma bastante extensiva en las vestimentas de los santos, án
 
 El albín o pavonazo es un óxido de hierro que se usa para emular al carmín en el fresco [@marai2007arte] y como parte de la mezcla que se usa para crear las carnaciones [@palomino, p. 153]. Dado que por ese nombre^[En realidad, escrito *pabonazo*] solo aparece en el tratado de Palomino [@palomino], que no se caracterizaba precisamente por la precisión química (entre otras cosas porque la formulación todavía no se había inventado), es difícil saber la composición exacta del mismo, aunque el color rojo oscuro es característico de los óxidos de hierro en su estado de oxidación 3, así que es posible que se trate de Fe~2~O~3~.
 
-La tierra roja es posible que se use en los tonos de las nubes o en mezclas para rojos más oscuros o morados.
+La tierra roja es posible que se use para dar tono dorado a las nubes o en mezclas para rojos más oscuros o morados.
 
 #### Verde
 
-Tierra verde
+El color verde se usa notablemente para representar las tierras emergidas en el globo terráqueo que sostiene San Bruno; también en la ropa de San Pedro, las guirnaldas que sostienen los *putti* y otras vestimentas diferentes.
+
+El pigmento que se usa es **tierra verde**, un pigmento natural de arcilla que contiene silicatos ferrosos (de hierro II) y manganeso, aunque tratándose de un producto natural cualquier tierra con un tono verde acaba llamándose de esta forma aunque tenga una composición muy diferente; Palomino la denomina también tierra de Verona o verdacho, aunque este último término se usa específicamente para la base de las encarnaciones [@marai2007arte].
+
+El mismo Palomino califica a este color de "preciso y usual" en el caso del óleo, aunque también lo recomienda para frescos tales como este [@palomino, p. 358].
 
 ### Dorados
 
