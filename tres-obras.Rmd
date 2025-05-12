@@ -304,7 +304,7 @@ Este color naranja, un color cálido situado precisamente en la figura que sosti
 
 #### Marrón
 
-Este pigmento se encuentra sobre todo en la vestimenta de José de Arimatea; según el artículo de Asperen et al. [@asperen1983algunas] se trata de óxidos de hierro, pudiendo tratarse de Fe~2~O~3~ con alguna mezcla^[El color marrón del hierro está asociado al estado de oxidación +3, es decir, Fe(III). Mezclado con otros óxidos puede rebajarse la tonalidad a un marrón más amarillento. El mineral más común con este color es la hematita, con un color marrón rojizo o rojo oscuro (sangre). El índice refractivo de este óxido es casi el doble que el del aceite de linaza, por lo que el color percibido en un cuadro cambiará con respecto al índice natural, haciendo más opaco el material que por tanto se percibirá como más oscuro al no dejar pasar la luz reflejada por la capa de imprimación de color claro].
+Este color se encuentra sobre todo en la vestimenta de José de Arimatea; según el artículo de Asperen et al. [@asperen1983algunas] se trata de óxidos de hierro, pudiendo tratarse de Fe~2~O~3~ con alguna mezcla^[El color marrón del hierro está asociado al estado de oxidación +3, es decir, Fe(III). Mezclado con otros óxidos puede rebajarse la tonalidad a un marrón más amarillento. El mineral más común con este color es la hematita, con un color marrón rojizo o rojo oscuro (sangre). El índice refractivo de este óxido es casi el doble que el del aceite de linaza, por lo que el color percibido en un cuadro cambiará con respecto al índice natural, haciendo más opaco el material que por tanto se percibirá como más oscuro al no dejar pasar la luz reflejada por la capa de imprimación de color claro].
 
 #### Amarillo
 
@@ -332,7 +332,7 @@ Van der Weyden y los primitivos flamencos en general obtienen diferentes tonos y
 En el mismo artículo describe como se consigue el color malva del vestido de María Magdalena (en lo que aprece el manto o sobrefalda). Sobre el dibujo y la preparación de color gris carne hay:
 
 * Una capa de fondo rosada con [azurita](#azurita), laca orgánica roja y [blanco de plomo](#bplomo).
-* Pintura grisácea
+* Pintura grisácea.
 * Pintura malva que mezcla azul ultramarino con laca orgánica roja y blanco de plomo.
 * Repintado y barniz
 
