@@ -1,5 +1,6 @@
 ---
-title: "Trabajo de Historia de las Técnicas Artísticas y de la Construcción"
+title: "Análisis estratigráfico de obras pictóricas"
+subtitle: "Trabajo de Historia de las Técnicas Artísticas y de la Construcción"
 author: "Juan Julián Merelo Guervós"
 output:
   pdf_document: default
