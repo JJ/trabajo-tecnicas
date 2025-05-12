@@ -66,6 +66,14 @@ Pacheco [@pacheco1866arte] lo denomina *blanco de linda cal*, o *de Portugal* o 
 
 (Libro III, página 365)
 
+## Rojos
+
+### Tierra roja
+
+Se trata de un color cuyo tono va desde el rojo oscuro (sangre) hasta el marrón, dependiendo del aglutinante con el que se mezcle. También se le denomina almagra o almagre, hematites, sinopia y rojo inglés [@marai2007arte]. La base de este pigmento es un óxido de hierro, Fe~2~O~3~, en cristalización romboidal, pero dado que se obtiene del mineral es posible que se encuentre en estado hidratado, lo que le daría diferentes tonos de marrón o amarillo.
+
+Se trata de un pigmento muy estable, que se conoce desde la prehistoria
+
 # Pinturas murales de Palomino en la cúpula del Sagrario de la Cartuja de Granada
 
 ![Visión general de la cúpula del Sagrario de la Cartuja de Granada](cartuja.jpg)
@@ -160,7 +168,6 @@ El azul esmalte, también llamado *cerúleo* [@marai2007arte] es, aparentemente,
 El rojo se usa de forma bastante extensiva en las vestimentas de los santos, ángeles y la Virgen; en el caso de San Juan Bautista y la Virgen tratan de simbolizar la pasión. Los pigmentos que se usan son **carmín** (del tipo albín o pavonazo) y **tierra roja**; también se usa como parte de una mezcla para crear rosas, tan característicos del barroco, malvas y morados.
 
 El albín o pavonazo es un óxido de hierro que se usa para emular al carmín en el fresco [@marai2007arte] y como parte de la mezcla que se usa para crear las carnaciones [@palomino, p. 153]. Dado que por ese nombre^[En realidad, escrito *pabonazo*] solo aparece en el tratado de Palomino [@palomino], que no se caracterizaba precisamente por la precisión química (entre otras cosas porque la formulación todavía no se había inventado), es difícil saber la composición exacta del mismo, aunque el color rojo oscuro es característico de los óxidos de hierro en su estado de oxidación 3, así que es posible que se trate de Fe~2~O~3~.
-
 
 
 #### Verde
