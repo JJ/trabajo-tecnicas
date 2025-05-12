@@ -141,7 +141,7 @@ El fresco usa, en general, la propia cal del mortero como aglutinante. En el cas
 
 ### Pigmentos
 
-Una vez más, no se conocen específicamente los colores usados en esta cúpula, así que tenemos que guiarnos tanto por el estudio que se ha hecho de los Santos Juanes [@BoschRoig] como de la propia guía de Palomino [@palomino], en la sección V del capítulo mencionado anteriormente; este afirma que todos los pigmentos son minerales. Se especifican a continuación.
+Una vez más, no se conocen específicamente los colores usados en esta cúpula, así que tenemos que guiarnos tanto por el estudio que se ha hecho de los Santos Juanes [@BoschRoig] como de la propia guía de Palomino [@palomino], en la sección V del capítulo mencionado anteriormente; este afirma que todos los pigmentos son minerales. Se especifican a continuación. Aparte de los indicados, en la tesis se menciona también la presencia de ocres amarillos o rojizos y pigmento tierra con carbonato de plomo, pero no parece que en este fresco se usen extensivamente.
 
 #### Blanco
 
@@ -152,10 +152,6 @@ Usa simplemente cal sola, o **blanco de cal**; también se ha encontrado mármol
 Usó **amarillo de Nápoles**^[Que puede ser o no igual a la hornaza, puesto que en algunos casos parece que denominan así a un compuesto de antimonio y no de plomo] u **hornaza**, que se crea a partir de la cocción de minerales que contienen plomo; por eso se le llama también amarillo de plomo; sin embargo, el pigmento llamado hornaza no tiene una composición específica, salvo que tiene óxidos de plomo (posiblemente en su forma PbO).
 
 Palomino lo usa de forma bastante extensiva para los fondos dorados, y en mezcla con otros pigmentos para conseguir tonalidades más cálidas en las nubes, por ejemplo.
-
-#### Ocres
-
-**Ocres amarillos o rojizos** y pigmento tierra con carbonato de plomo.
 
 #### Azul
 
