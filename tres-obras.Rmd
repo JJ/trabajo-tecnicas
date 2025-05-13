@@ -392,9 +392,15 @@ A continuación realizaremos el análisis estratigráfico de la misma, según la
 
 ## Materiales y procedimientos
 
-En este caso tenemos buenas referncias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@garrido1992velazquez][@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman.
+En este caso tenemos buenas referncias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@garrido1992velazquez][@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
 
 ### Soporte
+
+Se trata de un lienzo de lino, preferido por Velázquez en esta fase de su carrera [@GarridoGenio]. Cabe pensar que Velázquez aprendería el modo de preparar los lienzos de su suegro Pacheco, que  describe como lo hacen "en Madrid" [@pacheco1866arte] (libro Tercero, capítulo V): 
+
+>  los lienços con cola de guantes, i ceniza cernida en lugar de yesso, procurando que quede parejo, i esto dan con brocha i cuchillo, i seco, i dado de piedra pomiz, empriman con sola almagra común molida con aceite de linaça.
+
+Aunque parece que se usó este tipo de imprimación en la etapa inicial, Garrido [@GarridoGenio, p. 16] cuenta que se usan lienzos de alta densidad, con la tierra roja o almagre aplicada directamente sobre la cola "de guantes", es decir, cola elaborada a partir de piel y huesos animales, en muy posiblemente conejo.
 
 ### Preparaciones
 
