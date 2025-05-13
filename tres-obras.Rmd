@@ -297,7 +297,7 @@ En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferent
 Por lo tanto, la carnación es un resultado de varias capas de pintura, que de acuerdo con [@Metzger01011998], que las analizó para un retrato de Van der Weyden, pueden incluir:
 
 - [**Blanco de España** o carbonato cálcico](#ccalcio).
-- **Carmín**, que en este caso se trataría de quermes [@marai2007arte], un azúcar (C~22~H~20~O~13~), un producto que se comercializaba desde Venecia y se producía en varias áreas del Mediterráneo a partir de la hembra de un insecto hemíptero llamado de la misma forma, *quermes*. Para Palomino [@palomino] este tipo de carmín se enmarcaba dentro de los pigmentos "preciosos, floridos y costosos".
+- **Carmín**, que en este caso se trataría de quermes [@marai2007arte], un azúcar (C~10~H~10~O~8~), un producto que se comercializaba desde Venecia y se producía en varias áreas del Mediterráneo a partir de la hembra de un insecto hemíptero llamado de la misma forma, *quermes*. Para Palomino [@palomino] este tipo de carmín se enmarcaba dentro de los pigmentos "preciosos, floridos y costosos".
 * **Negro carbón** y **negro de hueso**
 * **Tierra roja**: se trata de un óxido de hierro, Fe~2~O~3~. También se llama almagra.
 * **Tierra amarilla** u **ocre**: se trata de un óxido de hierro hidratado FeO(OH).
@@ -443,6 +443,6 @@ Por otro lado, en el cielo no es probable que se emplee el mismo pigmento; por e
 
 En este cuadro se usa siempre en combinación con otros colores: los mantos de Cristo y Dios Padre tienen tonos morados o malva; prácticamente igual que la túnica de la Virgen, un poco más clara. También se usa en las carnaciones, desde los saludables coloretes de los angelotes y el rubor de la Virgen hasta el tono más oscuro de Cristo y más pálido que refleja la vejez de Dios Padre. Velázquez pintaba lo que conocía, y los rostros y tonos de piel son tan naturalistas que casi podrían llamarse realistas.
 
-En Toco caso, Garrido [@GarridoTecnica, p. 124] menciona la **laca roja**, y le dedica al "pequeño riachuelo" que forma la figura 17f^[Efecto que, para ser sinceros, es casi imposible de percibir con las imágenes de baja resolución que tenemos, pareciendo prácticamente un límite difuso entre la túnica de la Virgen y la de Dios Padre.].
+En Toco caso, Garrido [@GarridoTecnica, p. 124] menciona la **laca roja**, y le dedica al "pequeño riachuelo" que forma la figura 17f^[Efecto que, para ser sinceros, es casi imposible de percibir con las imágenes de baja resolución que tenemos, pareciendo prácticamente un límite difuso entre la túnica de la Virgen y la de Dios Padre.]. En el caso de Velázquez parece bastante claro que se trata de *cochinilla*, a la que tendría acceso sin problemas desde la corte.
 
 # Referencias
