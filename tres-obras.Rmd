@@ -382,7 +382,11 @@ En Sevilla se inicia su primera etapa pictórica, de corte costumbrista y aunque
 
 Tras un viaje a Italia por encargo del rey, para estudiar y adquirir diferentes pinturas, Velázquez se familiariza con los maestros venecianos: Tiziano, Tintoreto y Veronés, de los que adquiere una concepción diferente del color y del empleo de la textura del mismo, lo que da comienzo a la tercera etapa, caracterizada por su mayor colorismo, pero a la vez por una mayor economía de medios que lleva a la simplificación de la paleta [@gudiolVelazquez].
 
-En esta etapa precisamente se encuadra 
+En esta etapa precisamente se encuadra este cuadro, la Coronación. Según la fuente autoritativa de la web del Prado [@coronacionPrado] se pintó entre los años 35-36 para un oratorio de la reina Isabel de Borbón. Wifredo Rincoón en su libro [@velazquez], sin embargo, apunta al año 1640-41; Gudiol [@gudiolVelazquez] lo sitúa en la etapa 1631-35; la misma Carmen Garrido en [@garrido1992velazquez, p. 447] afirma que según algunos autores podría haber sido pintada a mitad de la década de los 40^[Lo que la situaría *después* de la muerte de la reina para cuyo oratorio había sido creada].
+
+Se trata, de hecho, de un tema religioso poco habitual en Velázquez, siendo la última pintura religiosa que se le ha atribuido; hasta tal punto es poco habitual, que se atribuyó originalmente a Alonso Cano, aunque desde 1746 no cabe duda de su realización [@garrido1992velazquez, p. 447].
+
+La obra representa a la Virgen sostenida por nubes que a su vez están sostenidas por ángeles. Por encima de la Virgen, Dios Padre a su izquierda y Cristo a la derecha sostienen una corona de flores, por el interior de la cual pasa un rayo de luz divina que emana del espíritu santo, situado entre los dos y más o menos a la altura de sus frentes. 
 
 
 
