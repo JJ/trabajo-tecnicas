@@ -14,6 +14,12 @@ csl: chicago-fullnote-bibliography-with-ibid.csl
 
 ### Azul de esmalte {#esmalte}
 
+El azul de esmalte, cerúleo o simplemente esmalte [@marai2007arte] es un silicato potásico con óxido de cobalto, con este último metal responsable del color azul; como tal y por su similitud con el cielo se usa habitualmente para expresar la idea de infinito [@clair2018secret].
+
+Palomino [@palomino] lo incluye como "pigmento calcinado" y lo recomienda para la pintura al fresco; no es exclusivo, sin embargo, pudiendo usarse perfectamente en la pintura al óleo e incluso al temple; de hecho, Palomino lo incluye en su categoría "preciso y usual", es decir, imprescindible en cualquier paleta. Pacheco [@pacheco1866arte, p. 423] lo recomienda para pintar "países" (paisajes):
+
+> En este cielo podrá aver nubes alegres, añadiendo a la templa del esmalte un poco de carmín.
+
 ### Azul ultramar {#ultramar}
 
 El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afghanistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
@@ -165,7 +171,7 @@ Palomino lo usa de forma bastante extensiva para los fondos dorados, y en mezcla
 
 En esta obra se usa, como es natural, en el manto de la Virgen, pero también se ven trazas de este azul en un jarrón encima de un medallón y en alguna otra vestimenta, por ejemplo de un ángel.
 
-El azul esmalte, también llamado *cerúleo* [@marai2007arte] es, aparentemente, usado en el cielo y de forma extensiva. Es un silicato potásico con óxido de cobalto, con este último metal responsable del color azul; como tal y por su similitud con el cielo se usa habitualmente para expresar la idea de infinito [@clair2018secret]. En esta obra se usa para crear un fondo de color frío que lance hacia el primer plano las figuras y las nubes doradas en las que se encuentran, acercándolas a la persona que está abajo en adoración.
+El azul esmalte, también llamado *cerúleo* [@marai2007arte] es, aparentemente, usado en el cielo y de forma extensiva. En esta obra se usa para crear un fondo de color frío que lance hacia el primer plano las figuras y las nubes doradas en las que se encuentran, acercándolas a la persona que está abajo en adoración.
 
 #### Rojo
 
