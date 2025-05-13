@@ -12,15 +12,7 @@ csl: chicago-fullnote-bibliography-with-ibid.csl
 
 ## Azules
 
-### Azurita {#azurita}
-
-La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" o "azul de montaña" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennini1859libro]:
-
-> Nasce molto nella Magna, e ancora in quel di Siena
-
-De hecho, hoy en día se puede encontrar en muchos lugares, incluyendo Jerez del Marquesado en Granada, generalmente asociado a la malaquita (de color verde, un simple carbonato de cobre con un grupo CO menos).
-
-Es un color que se mantiene estable, aunque la cal del fresco puede afectarlo, por eso Cennini [@cennini1859libro] dice que se use *al secco*.
+### Azul de esmalte {#esmalte}
 
 ### Azul ultramar {#ultramar}
 
@@ -41,6 +33,16 @@ Sigue comentando que se machaque en un mortero cubierto,
 para que no se pierda ni siquiera el polvo. Palomino en su clasificación [@palomino] lo incluye en la el tipo "extraordinario", de los que no se gastan habitualmente. Eso no impidió que lo usara de forma habitual en sus pinturas, aunque nunca en exteriores, por su inestabilidad y tendencia a fusionarse con la cal.
 
 Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el precio del azul ultramarino es posible que el maestro supervisara tanto su adquisición, en ocasiones pagando por parte de quien financia la obra el viaje a Venecia, como su preparación. 
+
+### Azurita {#azurita}
+
+La *azurita* es un carbonato básico de cobre [@marai2007arte], Cu~3~(CO~3~)~2~(OH)~2~. Es un pigmento común y llamado por eso *azul citramarino* ya que no se tenía que traer, como el lapislázuli, de más allá del mar. Se le llama también "cenizas azules" o "azul de montaña" y es un pigmento de origen natural, común en Alemania. Cennini, que lo llama *azzurro della Magna* (Alemania) dice [@cennini1859libro]:
+
+> Nasce molto nella Magna, e ancora in quel di Siena
+
+De hecho, hoy en día se puede encontrar en muchos lugares, incluyendo Jerez del Marquesado en Granada, generalmente asociado a la malaquita (de color verde, un simple carbonato de cobre con un grupo CO menos).
+
+Es un color que se mantiene estable, aunque la cal del fresco puede afectarlo, por eso Cennini [@cennini1859libro] dice que se use *al secco*.
 
 ## Blancos
 
@@ -91,7 +93,7 @@ Como tal espacio privado, la composición arquitectónica del espacio dirige la 
 
 El planteamiento iconográfico de la cúpula lo describe el propio Palomino hablando de la cúpula del monasterio de El Paular, del mismo autor y realizado a continuación, capítulo XIV del Libro Nono del Tomo Segundo de [@palomino]; aunque hay diferencias, los elementos principales son comunes: 
 
-> En ellugar mas supremo se mirará la Trinidad santísima en un gran trono de nubes, asistida de angeles, y serafines [...] María santísima, coronada reyna de los angeles [...] al otro lado San Juan Bautista, y san Joseph
+> En el lugar mas supremo se mirará la Trinidad santísima en un gran trono de nubes, asistida de angeles, y serafines [...] María santísima, coronada reyna de los angeles [...] al otro lado San Juan Bautista, y san Joseph
 
 La profusión de figuras, aunque más contenida y mejor perfilada que la de los Desamparados en Valencia, tiene forma de *apoteosis barroca* [@roman2020pinturas] y ciertas similitudes con la cúpula de la escalera del Escorial creada por Lucas Giordano; en esta apoteosis, la perspectiva se ha realizado con precisión, siguiendo los preceptos matemáticos que el propio Palomino estudió y desarrolló en sus escritos.
 
@@ -427,7 +429,9 @@ Por otro lado y como es habitual en él, Velázquez usa una paleta muy reducida,
 
 Usado de forma predominante en el manto de la Virgen, se entreven también tonos azulados en el cielo que sirve como fondo.
 
-En el caso del manto de la Virgen, y dado que se trata de un cuadro para un oratorio real, Velázquez no reparó en gastos y usó [azul ultramar](#ultramar) [@GarridoGenio, p. 122], que sigue también la práctica habitual en el manto de las Vírgenes de esta época; el azul es símbolo de majestad y de pureza, lo que refuerza el tema del cuadro.
+En el caso del manto de la Virgen, y dado que se trata de un cuadro para un oratorio real, Velázquez no reparó en gastos y usó [azul ultramar](#ultramar) [@GarridoGenio, p. 122], que sigue también la práctica habitual en el manto de las Vírgenes de esta época; el azul es símbolo de majestad y de pureza, lo que refuerza el tema del cuadro. Dado que en la mayoría de los casos Velázquez usaba una sola capa de pintura, es poco probable que se mezclara con azurita.
+
+Por otro lado, en el cielo no es probable que se emplee el mismo pigmento; por el tono debe tratarse de esmalte entre los que menciona Garrido [@GarridoTecnica].
 
 
 
