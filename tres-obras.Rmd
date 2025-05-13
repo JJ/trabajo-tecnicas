@@ -372,7 +372,13 @@ La Coronación de Velázquez es un óleo sobre lienzo, pintado entre 1641 y 1642
 
 ## Descripción general y contexto histórico
 
-Velázquez es posiblemente el mejor conocido de los pintores barrocos españoles. Nace en Sevilla al borde del comienzo del siglo XVII [@velazquez]. Su formación pictórica comienza muy pronto de la mano de Francisco de Herrera el Viejo, para cambiar en breve al taller del pintor y tratadista (y eventualmente suegro) Francisco Pacheco.
+Velázquez es posiblemente el mejor conocido de los pintores barrocos españoles. Nace en Sevilla al borde del comienzo del siglo XVII [@velazquez], muriendo en para morir en 1660. Su formación pictórica comienza muy pronto de la mano de Francisco de Herrera el Viejo, para cambiar en breve al taller del pintor y tratadista (y eventualmente suegro) Francisco Pacheco; como dice Palomino [@palomino, p. 479] en el Tomo 2, capítulo CVI, sección I:
+
+> Era la casa de Pacheco cárcel dorada del Arte, academia, y escuela de los mayores ingenios de Sevilla.
+
+Estos dos últimos se encuentran dentro de la llamada "Escuela de Sevilla" [@ricketts1903prado], que dejó su impronta en el pincel de Velázquez de forma inevitable, sobre todo este último, aunque también podemos ver ecos del tenebrismo de Valdés Leal, sobre todo en la primera época.
+
+
 
 
 ## Materiales y procedimientos
