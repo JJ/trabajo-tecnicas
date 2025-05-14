@@ -3,9 +3,9 @@ title: "Análisis estratigráfico de obras pictóricas"
 author: "Juan Julián Merelo Guervós"
 subtitle: Trabajo de Historia de las Técnicas Artísticas y de la Construcción
 output:
-  word_document: default
-  html_document: default
   pdf_document: default
+  html_document: default
+  word_document: default
 bibliography: biblio.bib
 csl: "chicago-fullnote-bibliography-with-ibid.csl"
 ---
@@ -92,7 +92,7 @@ La cúpula del Sagrario del Monasterio de la Cartuja es una pintura al fresco de
 
 ## Descripción general y contexto histórico
 
-Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesa por la técnica del fresco y a partir de ese momento desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, de las últimas obra en la que trabajaría antes de su muerte (la última sería el sagrario de la Cartuja de El Paular) y, por tanto, una obra en la que reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
+Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesa por la técnica del fresco; a partir de ese momento desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, de las últimas obra en la que trabajaría antes de su muerte (la última sería el sagrario de la Cartuja de El Paular) y, por tanto, una obra en la que reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
 
 La cúpula se encuentra en el Sagrario o *Sancta Sanctórum*, concebido en la arquitectura cartujana como un espacio "oculto" detrás del altar y destinado principalmente a la adoración privada de los cartujos, por separado de los frailes legos [@lozano2023orden], configurándolo de forma que "proteja del mundo exterior" [@ramos2021arquitectura]. El arquitecto Francisco Hurtado diseñó este espacio con un todo unitario que integra la arquitectura, la escultura y la pintura, tanto al fresco como de caballete, como una *máquina de rezar* y de exaltación de la Comunión y de la orden cartujana; sin embargo, este arquitecto falleció sin llegar a ver su ejecución completada.
 
@@ -104,7 +104,7 @@ El planteamiento iconográfico de la cúpula lo describe el propio Palomino habl
 
 La profusión de figuras, aunque más contenida y mejor perfilada que la de los Desamparados en Valencia, tiene forma de *apoteosis barroca* [@roman2020pinturas] y ciertas similitudes con la cúpula de la escalera del Escorial creada por Lucas Giordano; en esta apoteosis, la perspectiva se ha realizado con precisión, siguiendo los preceptos matemáticos que el propio Palomino estudió y desarrolló en sus escritos.
 
-En un contexto más amplio, la exaltación de la Eucaristía como sacramento católico forma parte del movimiento de rearme espiritual propiciado por la Contrarreforma del concilio de Trento. Al rechazar la transusbstanciación, el protestantismo convirtió a la comunión en un punto de debate. En pinturas tales como esta se trata de mostrar ese concepto abstracto, la presencia en cuerpo y sangre de cristo en la comunión, de forma simbólica y comprensible para todos, aparte de resaltar el triunfo de la Comunión sobre los pecados del mundo, simbolizados por la custodia culminando la bola del mundo.
+En un contexto más amplio, la exaltación de la Eucaristía como sacramento católico forma parte del movimiento de rearme espiritual propiciado por la Contrarreforma del concilio de Trento. Al rechazar la transubstanciación, el protestantismo convirtió a la comunión en un punto de debate. En pinturas tales como esta se trata de mostrar ese concepto abstracto, la presencia en cuerpo y sangre de cristo en la comunión, de forma simbólica y comprensible para todos, aparte de resaltar el triunfo de la Comunión sobre los pecados del mundo, simbolizados por la custodia culminando la bola del mundo.
 
 Esta devoción eucarística, centrada en el Sagrario como tipología arquitectónica típica de las cartujas españolas, tienen su culmen en este, y su foco en la cúpula, verdadero centro iconográfico y también religioso de la misma [@deCeballos], con el contexto añadido del recogimiento y silencio característico de la orden cartuja.
 
@@ -168,7 +168,7 @@ Palomino lo usa de forma bastante extensiva para los fondos dorados, y en mezcla
 
 #### Azul
 
-**Azul de montaña** (es decir, [azurita](#azurita)), [**azul ultramar**](#ultramar) y [**azul esmalte**](#esmalte). A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo lo mezcla con yeso y [albayalde](#bplomo) a partes iguales.
+**Azul de montaña** (es decir, [azurita](#azurita)), [**azul ultramar**](#ultramar) y [**azul esmalte**](#esmalte). A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo, lo mezcla con yeso y [albayalde](#bplomo) a partes iguales.
 
 En esta obra se usa, como es natural, en el manto de la Virgen, pero también se ven trazas de este azul en un jarrón encima de un medallón y en alguna otra vestimenta, por ejemplo de un ángel.
 
@@ -257,7 +257,7 @@ Adicionalmente, y por encima de la capa de dibujo (que trataremos a continuació
 
 Las imprimaturas basadas en plomo son, con diferentes combinaciones, habituales en la pintura de los primitivos flamencos; y aunque no es totalmente blanca como podría ser lo aconsejable, sigue siendo una capa de un color ligero sobre la que trabajar; de hecho, es lo habitual en otras pinturas de esa época.
 
-En cuanto al rojo de minio [@perez1994proceso] se trata de tetraóxido de plomo y se obtiene de la misma forma que el blanco de plomo calentándolo; al necesitar este proceso de calentamiento, es uno de los primeros pigmentos generados artificialmente; y esto es así desde Plinio el Viejo, que describía el proceso llamándolo *minium secundarium* (el *primarium* sería el cinabrio).
+En cuanto al rojo de minio [@perez1994proceso] se trata de tetróxido de plomo y se obtiene de la misma forma que el blanco de plomo calentándolo; al necesitar este proceso de calentamiento, es uno de los primeros pigmentos generados artificialmente; y esto es así desde Plinio el Viejo, que describía el proceso llamándolo *minium secundarium* (el *primarium* sería el cinabrio).
 
 Por su tendencia a ennegrecerse y también por mezclarse mal con otros pigmentos como el blanco de plomo, en esa época se usaba preferentemente como preparación, usando otro tipo de colores (como el bermellón) para el rojo en la capa pictórica [@clair2018secret].
 
@@ -267,13 +267,13 @@ El artículo de Asperen et al. [@asperen1983algunas] presenta un panorama bastan
 
 También hay algunas correcciones en posiciones del cuerpo y en la ropa que se pueden apreciar en los diferentes reflectogramas infrarrojos realizados y presentados en el trabajo anterior. Por otro lado, este dibujo no está presente en todas las tablas del cuadro [@perez1994proceso, p. 238].
 
-No he encontrado qué tipo de pigmento se usa para realizar dibujo subyacente, pero en esta época se hacía normalmente con carboncillo. En todo caso, se encuentra al parecer debajo de la imprimatura y encima de la capa de preparación de yeso.
+No he encontrado qué tipo de pigmento se usa para realizar el dibujo subyacente, pero en esta época se hacía normalmente con carboncillo. En todo caso, se encuentra al parecer debajo de la imprimatura y encima de la capa de preparación de yeso.
 
 ### Aglutinantes
 
 Como es lo habitual en el óleo, se usa aceite de linaza como aglutinante. En este caso específico, tras la restauración por "El Mudo" [@veliz2016caring], se usó también aceite de nuez para restaurar las pérdidas de material de la pintura.
 
-El óleo, que se comenzó a usar por primera vez de forma extensiva por parte de los primitivos flamencos, que por primera vez lo emplearon para *toda* la pintura, les permitió desarrollar *sistemas de pintura* [@bol2012painting] específicos para carnación y también el agua con los cuales alcanzaron nuevas cotas de realismo. Estos sistemas incluían desde la imprimación hasta diferentes capas de veladuras, como veremos en el apartado correspondiente.
+El óleo, que se comenzó a usar por primera vez de forma extensiva por parte de los primitivos flamencos, que por primera vez lo emplearon para *toda* la pintura, les permitió desarrollar *sistemas de pintura* [@bol2012painting] específicos para la carnación y también el agua con los cuales alcanzaron nuevas cotas de realismo. Estos sistemas incluían desde la imprimación hasta diferentes capas de veladuras, como veremos en el apartado correspondiente.
 
 El aceite de linaza, al tener un índice de refracción similar a los pigmentos más vivos tales como el azul ultramarino [@Krauth78], permite ver la luz reflejada por tales pigmentos en toda su calidad y vivacidad; si los índices refractivos del pigmento son similares a los del medio se intensifica el color.
 
@@ -316,7 +316,7 @@ El negro se usa tanto en la ropa, por ejemplo el turbante de José de Arimatea, 
 
 A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el azul se usa casi exclusivamente en el manto de la Virgen, con el rico tono característico tanto en *compianti* como en toda la representación renacentista de la Virgen.
 
-Como en la mayoría de esos casos, se usa el [**azul ultramar**](#ultramar) para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de [lapislázuli](#ultramar).
+Como en la mayoría de esos casos, se usa el [**azul ultramar**](#ultramar) para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]; en ese artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[Asperen et al. [@asperen1983algunas] comentan que esta proporción, 2 de lapislázuli por 1 de azurita, lo hacen mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de [lapislázuli](#ultramar) ].
 
 Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquierda del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
 
@@ -332,7 +332,7 @@ Este color naranja, un color cálido situado precisamente en la figura que sosti
 
 #### Marrón
 
-Este color se encuentra sobre todo en la vestimenta de José de Arimatea; según el artículo de Asperen et al. [@asperen1983algunas] se trata de óxidos de hierro, pudiendo tratarse de Fe~2~O~3~ con alguna mezcla^[El color marrón del hierro está asociado al estado de oxidación +3, es decir, Fe(III). Mezclado con otros óxidos puede rebajarse la tonalidad a un marrón más amarillento. El mineral más común con este color es la hematita, con un color marrón rojizo o rojo oscuro (sangre). El índice refractivo de este óxido es casi el doble que el del aceite de linaza, por lo que el color percibido en un cuadro cambiará con respecto al índice natural, haciendo más opaco el material que por tanto se percibirá como más oscuro al no dejar pasar la luz reflejada por la capa de imprimación de color claro].
+Este color se encuentra sobre todo en la vestimenta de José de Arimatea; según el artículo de Asperen et al. [@asperen1983algunas] se trata de óxidos de hierro, pudiendo tratarse de Fe~2~O~3~ con alguna mezcla^[El color marrón del hierro está asociado al estado de oxidación +3, es decir, Fe(III). Mezclado con otros óxidos puede rebajarse la tonalidad a un marrón más amarillento. El mineral más común con este color es la hematita, con un color marrón rojizo o rojo oscuro (sangre). El índice refractivo de este óxido es casi el doble que el del aceite de linaza, por lo que el color percibido en un cuadro cambiará con respecto al índice natural, haciendo más opaco el material que por tanto se percibirá como más oscuro al no dejar pasar la luz reflejada por la capa de imprimación de color claro.].
 
 #### Amarillo
 
@@ -366,7 +366,7 @@ En el mismo artículo describe como se consigue el color malva del vestido de Ma
 
 Cabría destacar que estos repintados, realizados por El Mudo en parte durante su restauración [@veliz2016caring], fueron prohibidos explícitamente sobre el manto de la virgen; por eso las microfotografías de estas partes del cuadro reflejan exclusivamente los originales.
 
-En resumen: Van der Weyden consigue el color, sus matices y sus sombras a base de múltiplas imágenes de veladuras aplicadas "al secco" sobre las anteriores, una vez secado el barniz que las recubre. En las microfotografías que se han hecho de esta pintura se ve claramente. Esta es una técnica más tradicional que la técnica del óleo "alla prima" usada por Van Eyck, que aplica nuevas capas sobre el óleo todavía húmedo; dado que se trata de una de las primeras pinturas conocidas de Van der Weyden, la maestría requerida por este tipo de técnica todavía no la habría podido conseguir.
+En resumen: Van der Weyden consigue el color, sus matices y sus sombras a base de múltiples capas de veladuras aplicadas "al secco" sobre las anteriores, una vez secado el barniz que las recubre. En las microfotografías que se han hecho de esta pintura se ve claramente. Esta es una técnica más tradicional que la técnica del óleo "alla prima" usada por Van Eyck, que aplica nuevas capas sobre el óleo todavía húmedo; dado que se trata de una de las primeras pinturas conocidas de Van der Weyden, la maestría requerida por este tipo de técnica todavía no la habría podido conseguir.
 
 ## Conclusión
 
@@ -381,7 +381,7 @@ La Coronación de Velázquez es un óleo sobre lienzo, pintado entre 1641 y 1642
 
 ## Descripción general y contexto histórico
 
-Velázquez es posiblemente el mejor conocido de los pintores barrocos españoles. Nace en Sevilla al borde del comienzo del siglo XVII [@velazquez], muriendo en para morir en 1660. Su formación pictórica comienza muy pronto de la mano de Francisco de Herrera el Viejo, para cambiar en breve al taller del pintor y tratadista (y eventualmente suegro) Francisco Pacheco; como dice Palomino [@palomino, p. 479] en el Tomo 2, capítulo CVI, sección I:
+Velázquez es posiblemente el mejor conocido de los pintores barrocos españoles. Nace en Sevilla al borde del comienzo del siglo XVII [@velazquez], para morir en 1660 en Madrid. Su formación pictórica comienza muy pronto de la mano de Francisco de Herrera el Viejo, para cambiar en breve al taller del pintor y tratadista (y eventualmente suegro) Francisco Pacheco; como dice Palomino [@palomino, p. 479] en el Tomo 2, capítulo CVI, sección I:
 
 > Era la casa de Pacheco cárcel dorada del Arte, academia, y escuela de los mayores ingenios de Sevilla.
 
@@ -410,7 +410,7 @@ En este caso tenemos buenas referencias tanto de las técnicas y paletas general
 
 Se trata de un lienzo de lino, preferido por Velázquez en esta fase de su carrera [@GarridoGenio]; en concreto, de lienzo de alta densidad.
 
-Los lienzos se comenzaron a usar a mediados del siglo XV en combinación con la técnica de óleo, popularizándose dese la ciudad de Venecia. Los lienzos se montaban sobre un bastidor de madera para que quedaran estirados y lisos; a continuación se les aplicaban las diferentes preparaciones.
+Los lienzos se comenzaron a usar a mediados del siglo XV en combinación con la técnica de óleo, popularizándose desde la ciudad de Venecia. Los lienzos se montaban sobre un bastidor de madera para que quedaran estirados y lisos; a continuación se les aplicaban las diferentes preparaciones.
 
 ### Preparaciones
 
@@ -436,7 +436,7 @@ Por otro lado y como es habitual en él, Velázquez usa una paleta muy reducida,
 
 #### Azul
 
-Usado de forma predominante en el manto de la Virgen, se entreven también tonos azulados en el cielo que sirve como fondo.
+Usado de forma predominante en el manto de la Virgen, se entrevén también tonos azulados en el cielo que sirve como fondo.
 
 En el caso del manto de la Virgen, y dado que se trata de un cuadro para un oratorio real, Velázquez no reparó en gastos y usó [azul ultramar](#ultramar) [@GarridoGenio, p. 122], que sigue también la práctica habitual en el manto de las Vírgenes de esta época; el azul es símbolo de majestad y de pureza, lo que refuerza el tema del cuadro. Dado que en la mayoría de los casos Velázquez usaba una sola capa de pintura, es poco probable que se mezclara con azurita.
 
