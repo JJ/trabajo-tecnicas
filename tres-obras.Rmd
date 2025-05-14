@@ -37,7 +37,7 @@ Sigue comentando que se machaque en un mortero cubierto,
 
 > perchè non ti vada via il polvere,
 
-para que no se pierda ni siquiera el polvo. Palomino en su clasificación [@palomino] lo incluye en la el tipo "extraordinario", de los que no se gastan habitualmente. Eso no impidió que lo usara de forma habitual en sus pinturas, aunque nunca en exteriores, por su inestabilidad y tendencia a fusionarse con la cal.
+para que no se pierda ni siquiera el polvo. Palomino en su clasificación [@palomino] lo incluye en  el tipo "extraordinario", de los que no se gastan habitualmente. Eso no impidió que lo usara de forma habitual en sus pinturas, aunque nunca en exteriores, por su inestabilidad y tendencia a fusionarse con la cal.
 
 Este tipo de preparaciones se hacían generalmente en el taller, aunque dado el precio del azul ultramarino es posible que el maestro supervisara tanto su adquisición, en ocasiones pagando por parte de quien financia la obra el viaje a Venecia, como su preparación. 
 
@@ -59,7 +59,7 @@ El blanco de plomo [@clair2018secret] o albayalde es un carbonato básico de plo
 
 >... Es el pan de la pintura al ólio, pues sin él no se puede pintar, porque ayuda a todas las colores para graduar los claros, carnes y paños blancos.
 
-Para Palomino [@palomino] se trata de uno de los colores "precisos y usuales", una de las cuatro categorías en las que dividía los pigmentos; esta categoría de pigmentos son aquellos necesarios en cualquier paleta por todas las posibilidades que tiene.
+Para Palomino [@palomino] se trata de uno de los colores "precisos y usuales", una de las cuatro categorías en las que dividía los pigmentos; esta categoría de pigmentos está compuesta por aquellos necesarios en cualquier paleta por todas las posibilidades que tiene.
 
 ### Carbonato cálcico o blanco de España {#ccalcio}
 
@@ -137,7 +137,7 @@ realización de pintura al fresco
 
 Por lo tanto, los morteros preparatorios usarían en su primera capa *yeso* y a continuación un *intonaco* de cal y de arena, dispuestas en tres capas [@BoschRoig] aparte del dibujo preparatorio y jornadas:
 
-* Una enfoscado de yeso sobre el muro de ladrillo, que tendría "yeso, anhidrita, basanita, calcita y cuarzo".
+* Un enfoscado de yeso sobre el muro de ladrillo, que tendría "yeso, anhidrita, basanita, calcita y cuarzo".
 * Una segunda capa de yeso sobre la anterior, la capa de *arriccio*, con la misma composición
 * Entre esta capa y la siguiente se ha encontrado en el caso de los Santos Juanes una capa de [tierra roja o sinopia](#almagre), que incluye el dibujo preparatorio; como es habitual, el dibujo preparatorio está *por debajo* de la última capa sobre la que se aplica directamente la pintura.
 * Una tercera capa, *intonaco*, de calcita y cuarzo que usa mortero de cal como aglomerante y arena como carga inerte, llamada *estuque* por el propio Palomino. Sobre esta última se aplicaría directamente la pintura.
@@ -170,7 +170,7 @@ Palomino lo usa de forma bastante extensiva para los fondos dorados, y en mezcla
 
 **Azul de montaña** (es decir, [azurita](#azurita)), [**azul ultramar**](#ultramar) y [**azul esmalte**](#esmalte). A pesar de que esto no es habitual, para aclarar el azul ultramar o simplemente para economizarlo, lo mezcla con yeso y [albayalde](#bplomo) a partes iguales.
 
-En esta obra se usa, como es natural, en el manto de la Virgen, pero también se ven trazas de este azul en un jarrón encima de un medallón y en alguna otra vestimenta, por ejemplo de un ángel.
+En esta obra se usa, como es natural, en el manto de la Virgen, pero también se ven trazas de este azul en un jarrón encima de un medallón y en alguna otra vestimenta, por ejemplo, de un ángel.
 
 El azul esmalte es, aparentemente, usado en el cielo y de forma extensiva. En esta obra se usa para crear un fondo de color frío que lance hacia el primer plano las figuras y las nubes doradas en las que se encuentran, acercándolas a la persona que está abajo en adoración.
 
@@ -186,7 +186,7 @@ La tierra roja es posible que se use para dar tono dorado a las nubes o en mezcl
 
 El color verde se usa notablemente para representar las tierras emergidas en el globo terráqueo que sostiene San Bruno; también en la ropa de San Pedro, las guirnaldas que sostienen los *putti* y otras vestimentas diferentes.
 
-El pigmento que se usa es **tierra verde**, un pigmento natural de arcilla que contiene silicatos ferrosos (de hierro II) y manganeso, aunque tratándose de un producto natural cualquier tierra con un tono verde acaba llamándose de esta forma aunque tenga una composición muy diferente; Palomino la denomina también tierra de Verona o verdacho, aunque este último término se usa específicamente para la base de las encarnaciones [@marai2007arte].
+El pigmento que se usa es **tierra verde**, un pigmento natural de arcilla que contiene silicatos ferrosos (de hierro II) y manganeso, aunque tratándose de un producto natural cualquier tierra con un tono verde acaba llamándose de esta forma, aunque tenga una composición muy diferente; Palomino la denomina también tierra de Verona o verdacho, aunque este último término se usa específicamente para la base de las encarnaciones [@marai2007arte].
 
 El mismo Palomino califica a este color de "preciso y usual" en el caso del óleo, aunque también lo recomienda para frescos tales como este [@palomino, p. 358].
 
@@ -232,7 +232,7 @@ Los materiales reflejan la historia de la pieza, que tras ser instalada en la ca
 
 ### Soporte
 
- La arquitectura gótica que llenó de luz espacios litúrgicos antes oscuros, y la nueva riqueza de gremios tales como este propició la difusión del retablo como soporte para la pintura [@retablos]. Combinado con el uso del óleo y la existencia de talleres de pintores, el retablo se convirtió en un producto que se podía encargar y transportar, llevarse a cabo en menos tiempo que un fresco, y que al ser portable, se podía cambiar de lugar o sustituir en caso de cambios políticos, religiosos o litúrgicos. Combinado con la *devotio moderna* que pedía imágenes portables para la devoción personal, y la pericia tecnológica y artística alcanzada por los carpinteros de la época, se explica la popularidad de este tipo de soporte, que alcanzaría su culmen más adelante, durante la Contrarreforma.
+ La arquitectura gótica que llenó de luz espacios litúrgicos antes oscuros, y la nueva riqueza de gremios tales como este propiciaron la difusión del retablo como soporte para la pintura [@retablos]. Combinado con el uso del óleo y la existencia de talleres de pintores, el retablo se convirtió en un producto que se podía encargar y transportar, llevarse a cabo en menos tiempo que un fresco y que, al ser portable, se podía cambiar de lugar o sustituir en caso de cambios políticos, religiosos o litúrgicos. Combinado con la *devotio moderna* que pedía imágenes portables para la devoción personal, y la pericia tecnológica y artística alcanzada por los carpinteros de la época, se explica la popularidad de este tipo de soporte, que alcanzaría su culmen más adelante, durante la Contrarreforma.
 
 Como casi todos los primitivos flamencos, el soporte que se usa es roble del Báltico [@roble].
 Las tablas están estructuradas en 11 tableros verticales [@asperen1983algunas]
@@ -279,7 +279,7 @@ El aceite de linaza, al tener un índice de refracción similar a los pigmentos 
 
 ### Pigmentos
 
-Los pigmentos usados están sacados del artículo de Asperen et al. [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un planos que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
+Los pigmentos usados están sacados del artículo de Asperen et al. [@asperen1983algunas]. En general, se usan colores muy vivos como corresponde a la *devotio moderna*, que trata de hacer más realistas las figuras divinas para acercarlas a los devotos. Por la misma razón se usa una paleta de colores cálidos que crean un plano que acercan la pintura al espectador, dándole una calidad casi escultórica, como si fuera un retablo escultórico colocado en un nicho en la pared, nicho que se representa como si se tratara de un trampantojo. También es una paleta relativamente reducida, tratando de conseguir sombras y tonos con veladuras (que se verán más adelante).
 
 Los colores y los pigmentos correspondientes que se mencionan en el artículo anterior con:
 
@@ -293,12 +293,12 @@ Reflejar el color de la piel humana es  una de las técnicas más complicadas de
 
 La representación de la carnación no solo afecta a la capa pictórica sino también al resto de las capas, requiriendo todo un *sistema de pintura* [@bol2012painting] para conseguir la semi-transparencia característica de la misma; en este apartado, sin embargo, sólo hablaremos de los pigmentos usados en la misma.
 
-En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferentes pigmentos, con más carga del mismo en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
+En esta pintura se han usado, por tanto, mezclas de blanco de plomo con diferentes pigmentos, con más carga de este en el caso del cuerpo de Cristo, mostrando la palidez mortal; también en el caso de la Virgen. Recordemos en todo caso la tercera capa de imprimación por encima del dibujo subyacente, que precisamente trata de modelar o dar una base para las mismas.
 
 Por lo tanto, la carnación es un resultado de varias capas de pintura, que de acuerdo con [@Metzger01011998], que las analizó para un retrato de Van der Weyden, pueden incluir:
 
 - [**Blanco de España** o carbonato cálcico](#ccalcio).
-- **Carmín**, que en este caso se trataría de quermes [@marai2007arte], un azúcar (C~10~H~10~O~8~), un producto que se comercializaba desde Venecia y se producía en varias áreas del Mediterráneo a partir de la hembra de un insecto hemíptero llamado de la misma forma, *quermes*. Para Palomino [@palomino] este tipo de carmín se enmarcaba dentro de los pigmentos "preciosos, floridos y costosos".
+- **Carmín**, que en este caso se trataría de quermes [@marai2007arte], un azúcar (C~10~H~10~O~8~), un producto que se comercializaba desde Venecia y se producía en varias áreas del Mediterráneo a partir de la hembra de un insecto hemíptero llamado de la misma forma, *quermes*. Para Palomino [@palomino] este tipo de carmín se enmarcaba en de los pigmentos "preciosos, floridos y costosos".
 * **Negro carbón** y **negro de hueso**
 * **Tierra roja**: se trata de un óxido de hierro, Fe~2~O~3~. También se llama almagra.
 * **Tierra amarilla** u **ocre**: se trata de un óxido de hierro hidratado FeO(OH).
@@ -310,7 +310,7 @@ Aunque todos estos colores se han encontrado en otra pintura del mismo autor ana
 
 En el artículo de Asperen et al. [@asperen1983algunas] afirma "sin determinar" el pigmento que usa, aunque el de Pérez Garrido et al. [@perez1994proceso] dice que son "de origen orgánico"; es decir, se tratará con mucha probabilidad de **negro carbón**.
 
-El negro se usa tanto en la ropa, por ejemplo el turbante de José de Arimatea, como en el pelo de algunos personajes, Cristo y San Juan Evangelista, así como para las sombras en todo el cuadro. Como se ha visto también en la [sección sobre las carnaciones](#carnaciones), también se combina con otros colores para conseguir diferentes tonos de piel.
+El negro se usa tanto en la ropa, por ejemplo, el turbante de José de Arimatea, como en el pelo de algunos personajes, Cristo y San Juan Evangelista, así como para las sombras en todo el cuadro. Como se ha visto también en la [sección sobre las carnaciones](#carnaciones), también se combina con otros colores para conseguir diferentes tonos de piel.
 
 #### Azul
 
@@ -357,7 +357,7 @@ Cabría incluir dentro de este apartado la imitación de dorado que se ve, sobre
 
 Van der Weyden y los primitivos flamencos en general obtienen diferentes tonos y sombras a base de veladuras, aplicando nuevas capas sobre el óleo todavía sin secar, cubriendo con barniz, y volviendo a pintar encima; con esta técnica, por ejemplo, que combina capas de [azurita](#azurita) con otras de azul ultramarino se pinta el manto de la virgen. El barniz intermedio que se usa puede ser sandaraca u otro barniz de resina natural [@asperen1983algunas].
 
-En el mismo artículo describe como se consigue el color malva del vestido de María Magdalena (en lo que aprece el manto o sobrefalda). Sobre el dibujo y la preparación de color gris carne hay:
+En el mismo artículo describe como se consigue el color malva del vestido de María Magdalena (en lo que se aprecia en el manto o sobrefalda): Sobre el dibujo y la preparación de color gris carne hay:
 
 * Una capa de fondo rosada con [azurita](#azurita), laca orgánica roja y [blanco de plomo](#bplomo).
 * Pintura grisácea.
@@ -370,7 +370,7 @@ En resumen: Van der Weyden consigue el color, sus matices y sus sombras a base d
 
 ## Conclusión
 
-Persiguiendo la representación de un ideal religioso de belleza y de cercanía de la divinidad al devoto, Van der Weyden introdujo una serie de novedades técnicas que expandieron el vocabulario pictórico en muchas direcciones compositivas, temáticas y de color. Sobre todo en este último, las buenas prácticas que se introdujeron en el uso de aglutinantes como el óleo y el uso de un sistema pictórico que va desde la preparación de la tabla hasta el uso de veladuras para conseguir efectos de color determinados, hace de esta pintura una obra maestra cuyo estudio en la historia del arte es esencial.
+Persiguiendo la representación de un ideal religioso de belleza y de cercanía de la divinidad al devoto, Van der Weyden introdujo una serie de novedades técnicas que expandieron el vocabulario pictórico en muchas direcciones compositivas, temáticas y de color. En este último, sobre todo, las buenas prácticas que se introdujeron en el uso de aglutinantes como el óleo y el uso de un sistema pictórico que va desde la preparación de la tabla hasta el uso de veladuras para conseguir efectos de color determinados, hace de esta pintura una obra maestra cuyo estudio en la historia del arte es esencial.
 
 # La coronación de la Virgen, Diego Velázquez
 
@@ -389,7 +389,7 @@ Estos dos últimos se encuentran dentro de la llamada "Escuela de Sevilla" [@ric
 
 En Sevilla se inicia su primera etapa pictórica, de corte costumbrista y aunque da ya muestras de su talento, sus lienzos no resultan tan innovadores desde el punto de vista de la técnica, la composición y el tema como los posteriores. Su viaje a la Corte de Madrid como pintor oficial de la misma marca el comienzo de su segunda etapa pictórica, plena de retratos reales, pero también con innovaciones sobre temas mitológicos como "Los borrachos" [@velazquez].
 
-Tras un viaje a Italia por encargo del rey, para estudiar y adquirir diferentes pinturas, Velázquez se familiariza con los maestros venecianos: Tiziano, Tintoreto y Veronés, de los que adquiere una concepción diferente del color y del empleo de la textura del mismo, lo que da comienzo a la tercera etapa, caracterizada por su mayor colorismo, pero a la vez por una mayor economía de medios que lleva a la simplificación de la paleta [@gudiolVelazquez].
+Tras un viaje a Italia por encargo del rey, para estudiar y adquirir diferentes pinturas, Velázquez se familiariza con los maestros venecianos: Tiziano, Tintoreto y Veronés, de los que adquiere una concepción diferente del color y del empleo de la textura en la aplicación de los mismos, lo que da comienzo a la tercera etapa, caracterizada por su mayor colorismo, pero a la vez por una mayor economía de medios que lleva a la simplificación de la paleta [@gudiolVelazquez].
 
 En esta etapa precisamente se encuadra este cuadro, la Coronación. Según la fuente autoritativa de la web del Prado [@coronacionPrado] se pintó entre los años 35 y 36 para un oratorio de la reina Isabel de Borbón. Wifredo Rincón en su libro [@velazquez], sin embargo, apunta al año 1640-41; Gudiol [@gudiolVelazquez] lo sitúa en la etapa 1631-35; la misma Carmen Garrido en [@GarridoTecnica, p. 447] afirma que según algunos autores podría haber sido pintada a mitad de la década de los 40^[Lo que la situaría *después* de la muerte de la reina para cuyo oratorio había sido creada.].
 
@@ -400,17 +400,17 @@ La Virgen se apoya en unas nubes que a su vez están sostenidas por ángeles. Po
 
 El hecho de que la Virgen apunte a su corazón, y que la composición de la ropa de las figuras forme también un corazón en el centro del cual está la misma [@capilla08], apunta a la iconografía del Sagrado Corazón de María, una hipótesis, que más tarde se convertiría en herejía, de que la concepción de Cristo tuvo lugar en el corazón de la Virgen.
 
-A continuación realizaremos el análisis estratigráfico de la misma, según la documentación hallada.
+A continuación, realizaremos el análisis estratigráfico de la misma, según la documentación hallada.
 
 ## Materiales y procedimientos
 
-En este caso tenemos buenas referencias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@GarridoTecnica][@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
+En este caso tenemos buenas referencias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@GarridoTecnica] [@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
 
 ### Soporte
 
 Se trata de un lienzo de lino, preferido por Velázquez en esta fase de su carrera [@GarridoGenio]; en concreto, de lienzo de alta densidad.
 
-Los lienzos se comenzaron a usar a mediados del siglo XV en combinación con la técnica de óleo, popularizándose desde la ciudad de Venecia. Los lienzos se montaban sobre un bastidor de madera para que quedaran estirados y lisos; a continuación se les aplicaban las diferentes preparaciones.
+Los lienzos se comenzaron a usar a mediados del siglo XV en combinación con la técnica de óleo, popularizándose desde la ciudad de Venecia. Los lienzos se montaban sobre un bastidor de madera para que quedaran estirados y lisos; a continuación, se les aplicaban las diferentes preparaciones.
 
 ### Preparaciones
 
@@ -420,7 +420,7 @@ Cabe pensar que Velázquez aprendería el modo de preparar los lienzos de su sue
 
 Aunque parece que se usó este tipo de imprimación en la etapa inicial, Garrido [@GarridoGenio, p. 16] cuenta que se usan lienzos de alta densidad, con la [tierra roja o almagre](#almagre) aplicada directamente sobre la cola "de guantes", es decir, cola elaborada a partir de piel y huesos animales, en muy posiblemente conejo. Este caso, sin embargo, es especial por el tema y el emplazamiento, así que Garrido comenta [@GarridoGenio, p. 178] que se trata de "blanco de plomo y negro finamente molido", para producir un color cercano al gris.
 
-Lo más interesante, sin embargo, es que Velázquez en esta fase de su técnica aplicaba capas muy finas y en algunos casos simplemente dejaba ver la base del lienzo y su trama; así se ve en alguna de las zonas de la imagen, por ejemplo alrededor del aura de Jesucristo y en las zonas que rodean a las áreas de mayor claridad. 
+Lo más interesante, sin embargo, es que Velázquez en esta fase de su técnica aplicaba capas muy finas y en algunos casos simplemente dejaba ver la base del lienzo y su trama; así se ve en alguna de las zonas de la imagen, por ejemplo, alrededor del aura de Jesucristo y en las zonas que rodean a las áreas de mayor claridad. 
 
 ### Aglutinantes
 
@@ -432,7 +432,7 @@ Por otro lado, en otro libro, Garrido afirma [@GarridoTecnica, p. 36] que se usa
 
 Velázquez usa el grano de los pigmentos para conseguir efectos determinados en algunas fases de su pintura. En este caso los muele de forma muy fina, para poder conseguir diferentes tonos y efectos de transparencia.
 
-Por otro lado y como es habitual en él, Velázquez usa una paleta muy reducida, compuesta principalmente por azules y rojos. Dedicaremos especial atención a estos tonos agrupando el resto de los colores en un solo apartado al final de esta sección.
+Por otro lado, y como es habitual en él, Velázquez usa una paleta muy reducida, compuesta principalmente por azules y rojos. Dedicaremos especial atención a estos tonos agrupando el resto de los colores en un solo apartado al final de esta sección.
 
 #### Azul
 
