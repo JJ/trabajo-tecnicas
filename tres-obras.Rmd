@@ -1,12 +1,13 @@
 ---
 title: "Análisis estratigráfico de obras pictóricas"
-subtitle: "Trabajo de Historia de las Técnicas Artísticas y de la Construcción"
 author: "Juan Julián Merelo Guervós"
+subtitle: Trabajo de Historia de las Técnicas Artísticas y de la Construcción
 output:
-  pdf_document: default
+  word_document: default
   html_document: default
+  pdf_document: default
 bibliography: biblio.bib
-csl: chicago-fullnote-bibliography-with-ibid.csl
+csl: "chicago-fullnote-bibliography-with-ibid.csl"
 ---
 # Referencia: pigmentos usados en varias obras {#pigmentos}
 
@@ -22,7 +23,7 @@ Palomino [@palomino] lo incluye como "pigmento calcinado" y lo recomienda para l
 
 ### Azul ultramar {#ultramar}
 
-El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afghanistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
+El lapislázuli o azul ultramar también procede de otro mineral del mismo nombre, que se encuentra sobre todo en Afganistán en esta época; al tener que importarse a Europa desde más allá del mar, sobre todo a través de Venecia, recibió ese nombre. El componente que le da color es la *lazurita*, un silicato de aluminio que incluye también sodio y calcio en su composición.
 
 Parrilla en su tesis [@marai2007arte, p. 91] indica que revela
 
@@ -91,7 +92,7 @@ La cúpula del Sagrario del Monasterio de la Cartuja es una pintura al fresco de
 
 ## Descripción general y contexto histórico
 
-Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesa por la técnica del fresco y a partir de ese momento desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, de las últimas obra en la que trabajaría antes de su muerte (la última sería el sagrario de la Cartula de El Paular) y, por tanto, una obra en la que reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
+Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesa por la técnica del fresco y a partir de ese momento desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, de las últimas obra en la que trabajaría antes de su muerte (la última sería el sagrario de la Cartuja de El Paular) y, por tanto, una obra en la que reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
 
 La cúpula se encuentra en el Sagrario o *Sancta Sanctórum*, concebido en la arquitectura cartujana como un espacio "oculto" detrás del altar y destinado principalmente a la adoración privada de los cartujos, por separado de los frailes legos [@lozano2023orden], configurándolo de forma que "proteja del mundo exterior" [@ramos2021arquitectura]. El arquitecto Francisco Hurtado diseñó este espacio con un todo unitario que integra la arquitectura, la escultura y la pintura, tanto al fresco como de caballete, como una *máquina de rezar* y de exaltación de la Comunión y de la orden cartujana; sin embargo, este arquitecto falleció sin llegar a ver su ejecución completada.
 
