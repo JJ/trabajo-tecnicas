@@ -209,7 +209,7 @@ Aunque no tenemos mucha información específica sobre la cúpula de la Cartuja,
 ![El Descendimiento de Roger van der Weyden](Descendimiento.jpg)
 **Figura 2**: El Descendimiento de Van Der Weyden, imagen de dominio público [descargada de Wikimedia Commons](https://es.m.wikipedia.org/wiki/Archivo:El_Descendimiento,_by_Rogier_van_der_Weyden,_from_Prado_in_Google_Earth.jpg#).
 
-El Descendimiento es un óleo sobre tabla realizado por Rogier de la Pasture/van der Weyden^[versión francesa o flamenca del mismo nombre, que significa "de la vega"] entre 1535 y 1437 [@alcalde02].
+El Descendimiento es un óleo sobre tabla realizado por Rogier de la Pasture/van der Weyden^[versión francesa o flamenca del mismo nombre, que significa "de la vega".] entre 1535 y 1437 [@alcalde02].
 
 
 ## Descripción general y contexto histórico
@@ -318,7 +318,7 @@ A diferencia de otros colores que aparecen distribuidos por todo el cuadro, el a
 
 Como en la mayoría de esos casos, se usa el [**azul ultramar**](#ultramar) para ese vestido, si bien está combinado con la [**azurita**](#azurita) [@asperen1983algunas]e, en este artículo muestran una microfotografía del manto de la virgen donde se ve una capa a base de azurita mezclada con [blanco de plomo](#bplomo), seguida de dos capas de veladuras que, en este caso, usan lapislázuli^[ [@asperen1983algunas] comenta que esta proporción, 2 de lapislázuli por 1 de azurita, lo hace mucho más caro que la usada en el Retablo de Gante de Van Eyck, que tiene 3 de azurita por 1 o 2 de [lapislázuli](#ultramar).
 
-Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquiera del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
+Van der Weyden intensifica aquí el volumen de la túnica con los detallados pliegues, modelados de forma realista, que dejan en sombra toda la parte izquierda del manto, la más cercana a la calavera de Adán, la más cercana a la muerte. La gradación del oscuro en la parte izquierda del manto con la luz en la parte más cercana a Cristo quiere simbolizar la redención traída por Jesucristo, "la luz del mundo".
 
 #### Verde
 
@@ -351,7 +351,7 @@ Se aplica sobre todo al fondo, tratando de reflejar esa luz divina que ilumina d
 
 La técnica de dorado que usa es **dorado al agua**, lo que se aprecia por el bruñido que aparece de forma evidente en las imágenes de alta resolución. Esta técnica de dorado se conoce desde la antigüedad, y aparede también en los tratados de Cennini [@cennini1859libro].
 
-Cabría incluir dentro de este apartado la imitación de dorado que se ve, sobre todo, en el brocado del jubón de José de Arimatea. Esther van Duijn en su artículo [@duijn13] habla del cambio radical que se experimentó con Van der Weyden, y también Van Eyck, de usar una mezcla de pinturas para imitar el oro (y de esa forma ahorrar, pero también conseguir resolver un problema pictórico). Para esta imitación crean un sistema pictórico de varias capas, que en el caso de van der Weyden usan como base un "marrón rosado o gris frío" mezclando pigmentos sintéticos: [blanco de plomo](#bplomo), amarilo de plomo-estaño, vermellón y pigmentos rojos orgánicos; la segunda fase crea el patrón del terciopelo, en algunos casos usando verdadero hilo de oro (*allucciolato*) pero más frecuentemente tratando de crear patrones de luces y sombra que imiten la textura del mismo; finalmente, para imitar los hilos de oro van der Weyden usa una gama que va del amarillo al marrón. 
+Cabría incluir dentro de este apartado la imitación de dorado que se ve, sobre todo, en el brocado del jubón de José de Arimatea. Esther van Duijn en su artículo [@duijn13] habla del cambio radical que se experimentó con Van der Weyden, y también Van Eyck, de usar una mezcla de pinturas para imitar el oro (y de esa forma ahorrar, pero también conseguir resolver un problema pictórico). Para esta imitación crean un sistema pictórico de varias capas, que en el caso de van der Weyden usan como base un "marrón rosado o gris frío" mezclando pigmentos sintéticos: [blanco de plomo](#bplomo), amarilo de plomo-estaño, bermellón y pigmentos rojos orgánicos; la segunda fase crea el patrón del terciopelo, en algunos casos usando verdadero hilo de oro (*allucciolato*) pero más frecuentemente tratando de crear patrones de luces y sombra que imiten la textura del mismo; finalmente, para imitar los hilos de oro van der Weyden usa una gama que va del amarillo al marrón. 
 
 ### Veladuras y barnices
 
@@ -448,7 +448,7 @@ En este cuadro se usa siempre en combinación con otros colores: los mantos de C
 
 En Toco caso, Garrido [@GarridoTecnica, p. 124] menciona la **laca roja**, y le dedica al "pequeño riachuelo" que forma la figura 17f^[Efecto que, para ser sinceros, es casi imposible de percibir con las imágenes de baja resolución que tenemos, pareciendo prácticamente un límite difuso entre la túnica de la Virgen y la de Dios Padre.]. En el caso de Velázquez parece bastante claro que se trata de *cochinilla*, a la que tendría acceso sin problemas desde la corte, ya que se importaba de Hispanoamérica. El pigmento de la cochinilla es el ácido carmínico, C~22~H~20~O~13~.
 
-También Garrido menciona el uso de **vermellón**, pero por su uso en otras pinturas identificado por espectroscopía Raman [@GUTIERREZNEIRA201313], no parece que se esté usando en este caso. Sí es más probable el [hematites u óxido de hierro rojo](#almagre), principalmente en las carnaciones, donde es bastante evidente; su mezcla con otros colores, principalmente amarillos (también muy proablemente de óxido de hierro) da lugar a los diferentes tonos encarnados que nos encontramos en el cuadro. Este pigmento, identificado en el artículo anterior en "Los Borrachos", es más probable que el vermellón (que también se usa en carnaciones, pero en pinturas más tempranas).
+También Garrido menciona el uso de **bermellón**, pero por su uso en otras pinturas identificado por espectroscopía Raman [@GUTIERREZNEIRA201313], no parece que se esté usando en este caso. Sí es más probable el [hematites u óxido de hierro rojo](#almagre), principalmente en las carnaciones, donde es bastante evidente; su mezcla con otros colores, principalmente amarillos (también muy proablemente de óxido de hierro) da lugar a los diferentes tonos encarnados que nos encontramos en el cuadro. Este pigmento, identificado en el artículo anterior en "Los Borrachos", es más probable que el bermellón (que también se usa en carnaciones, pero en pinturas más tempranas).
 
 Teniendo en cuenta la paleta limitada de pigmentos de Velázquez, otros colores como el morado (presente en las vestiduras) se obtienen de mezcla de la laca roja con azurita; con estos dos componentes en diferentes proporciones se pueden obtener todo tipo de tonos entre el malva y el morado y ciertamente los que aparecen en el cuadro.
 
