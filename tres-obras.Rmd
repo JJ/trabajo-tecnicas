@@ -404,7 +404,7 @@ A continuación, realizaremos el análisis estratigráfico de la misma, según l
 
 ## Materiales y procedimientos
 
-En este caso tenemos buenas referencias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@GarridoTecnica] [@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
+En este caso tenemos buenas referencias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@GarridoTecnica] [@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por él [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
 
 ### Soporte
 
@@ -463,6 +463,8 @@ Y ya que mencionamos el blanco, el negro también se usa con profusión, y Velá
 El amarillo se hace evidente también, sobre todo en los dorados, y posiblemente también en las carnaciones. No hay nada en la literatura que identifique el amarillo específico usado en esta pintura, aunque una vez más Gutiérrez Neira [@GUTIERREZNEIRA201313] ha identificado el **óxido amarillo de hierro**, *ocre amarillo* o goethita, en realidad el oxihidróxido de hierro FeO~2~H entre los mencionados por Carmen Garrido. También se podría apreciar este color en los cabellos rubios de los *putti*.
 
 Si bien en otros cuadros Velázquez usa *amarillo de plomo y estaño*, no parece que este tenga los elementos en los que los usa habitualmente: ropa, paisajes o piel de animales; también se usa en combinación con la azurita para obtener verde, que no está presente en este cuadro. Aunque no hemos encontrado ninguna mención a su uso, tampoco se puede descartar, así que lo hacemos constar.
+
+Finalmente, el verde que no es muy conspicuo, y de hecho en un primer vistazo no se ve, pero lo cierto es que está nada menos que en la corona que es el tema principal de la Coronación. Por la economía de pigmentos ya mencionada, Velázquez nunca usa un pigmento verde, sino que emplea mezclas de amarillos y azules. En este caso, un libro [@mckim1993velazquez]
 
 ### Conclusiones
 
