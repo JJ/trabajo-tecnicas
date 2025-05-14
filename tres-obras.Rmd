@@ -391,7 +391,7 @@ En Sevilla se inicia su primera etapa pictórica, de corte costumbrista y aunque
 
 Tras un viaje a Italia por encargo del rey, para estudiar y adquirir diferentes pinturas, Velázquez se familiariza con los maestros venecianos: Tiziano, Tintoreto y Veronés, de los que adquiere una concepción diferente del color y del empleo de la textura del mismo, lo que da comienzo a la tercera etapa, caracterizada por su mayor colorismo, pero a la vez por una mayor economía de medios que lleva a la simplificación de la paleta [@gudiolVelazquez].
 
-En esta etapa precisamente se encuadra este cuadro, la Coronación. Según la fuente autoritativa de la web del Prado [@coronacionPrado] se pintó entre los años 35-36 para un oratorio de la reina Isabel de Borbón. Wifredo Rincoón en su libro [@velazquez], sin embargo, apunta al año 1640-41; Gudiol [@gudiolVelazquez] lo sitúa en la etapa 1631-35; la misma Carmen Garrido en [@GarridoTecnica, p. 447] afirma que según algunos autores podría haber sido pintada a mitad de la década de los 40^[Lo que la situaría *después* de la muerte de la reina para cuyo oratorio había sido creada].
+En esta etapa precisamente se encuadra este cuadro, la Coronación. Según la fuente autoritativa de la web del Prado [@coronacionPrado] se pintó entre los años 35 y 36 para un oratorio de la reina Isabel de Borbón. Wifredo Rincón en su libro [@velazquez], sin embargo, apunta al año 1640-41; Gudiol [@gudiolVelazquez] lo sitúa en la etapa 1631-35; la misma Carmen Garrido en [@GarridoTecnica, p. 447] afirma que según algunos autores podría haber sido pintada a mitad de la década de los 40^[Lo que la situaría *después* de la muerte de la reina para cuyo oratorio había sido creada.].
 
 Se trata, de hecho, de un tema religioso poco habitual en Velázquez, siendo la última pintura religiosa que se le ha atribuido; hasta tal punto es poco habitual, que se atribuyó originalmente a Alonso Cano, aunque desde 1746 no cabe duda de su realización [@GarridoTecnica, p. 447]. La composición recibe inspiración de diferentes obras anteriores [@soria1953venus], principalmente de Durero, pasado quizá por el Greco; también se señala la similitud con "La Cieguecita" de la catedral de Sevilla [@velazquez]; sin embargo, la combinación de estas inspiraciones y la paleta hacen de esta obra algo original y único.
 
@@ -404,7 +404,7 @@ A continuación realizaremos el análisis estratigráfico de la misma, según la
 
 ## Materiales y procedimientos
 
-En este caso tenemos buenas referncias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@GarridoTecnica][@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
+En este caso tenemos buenas referencias tanto de las técnicas y paletas generales usadas por Velázquez como de la pintura en concreto, principalmente a través de las obras de Carmen Garrido [@GarridoTecnica][@GarridoGenio], pero también a través de trabajos específicos sobre los pigmentos usados por Velázquez [@GUTIERREZNEIRA201313] usando espectroscopía Raman, que confirma en muchos casos las afirmaciones de la anterior.
 
 ### Soporte
 
@@ -432,7 +432,7 @@ Por otro lado, en otro libro, Garrido afirma [@GarridoTecnica, p. 36] que se usa
 
 Velázquez usa el grano de los pigmentos para conseguir efectos determinados en algunas fases de su pintura. En este caso los muele de forma muy fina, para poder conseguir diferentes tonos y efectos de transparencia.
 
-Por otro lado y como es habitual en él, Velázquez usa una paleta muy reducida, compuesta principalemte por azules y rojos. Dedicaremos especial atención a estos tonos agrupando el resto de los colores en un solo apartado al final de esta sección.
+Por otro lado y como es habitual en él, Velázquez usa una paleta muy reducida, compuesta principalmente por azules y rojos. Dedicaremos especial atención a estos tonos agrupando el resto de los colores en un solo apartado al final de esta sección.
 
 #### Azul
 
@@ -448,7 +448,7 @@ En este cuadro se usa siempre en combinación con otros colores: los mantos de C
 
 En Toco caso, Garrido [@GarridoTecnica, p. 124] menciona la **laca roja**, y le dedica al "pequeño riachuelo" que forma la figura 17f^[Efecto que, para ser sinceros, es casi imposible de percibir con las imágenes de baja resolución que tenemos, pareciendo prácticamente un límite difuso entre la túnica de la Virgen y la de Dios Padre.]. En el caso de Velázquez parece bastante claro que se trata de *cochinilla*, a la que tendría acceso sin problemas desde la corte, ya que se importaba de Hispanoamérica. El pigmento de la cochinilla es el ácido carmínico, C~22~H~20~O~13~.
 
-También Garrido menciona el uso de **bermellón**, pero por su uso en otras pinturas identificado por espectroscopía Raman [@GUTIERREZNEIRA201313], no parece que se esté usando en este caso. Sí es más probable el [hematites u óxido de hierro rojo](#almagre), principalmente en las carnaciones, donde es bastante evidente; su mezcla con otros colores, principalmente amarillos (también muy proablemente de óxido de hierro) da lugar a los diferentes tonos encarnados que nos encontramos en el cuadro. Este pigmento, identificado en el artículo anterior en "Los Borrachos", es más probable que el bermellón (que también se usa en carnaciones, pero en pinturas más tempranas).
+También Garrido menciona el uso de **bermellón**, pero por su uso en otras pinturas identificado por espectroscopía Raman [@GUTIERREZNEIRA201313], no parece que se esté usando en este caso. Sí es más probable el [hematites u óxido de hierro rojo](#almagre), principalmente en las carnaciones, donde es bastante evidente; su mezcla con otros colores, principalmente amarillos (también muy probablemente de óxido de hierro) da lugar a los diferentes tonos encarnados que nos encontramos en el cuadro. Este pigmento, identificado en el artículo anterior en "Los Borrachos", es más probable que el bermellón (que también se usa en carnaciones, pero en pinturas más tempranas).
 
 Teniendo en cuenta la paleta limitada de pigmentos de Velázquez, otros colores como el morado (presente en las vestiduras) se obtienen de mezcla de la laca roja con azurita; con estos dos componentes en diferentes proporciones se pueden obtener todo tipo de tonos entre el malva y el morado y ciertamente los que aparecen en el cuadro.
 
