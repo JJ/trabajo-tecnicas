@@ -420,7 +420,7 @@ Cabe pensar que Velázquez aprendería el modo de preparar los lienzos de su sue
 
 >  los lienços con cola de guantes, i ceniza cernida en lugar de yesso, procurando que quede parejo, i esto dan con brocha i cuchillo, i seco, i dado de piedra pomiz, empriman con sola almagra común molida con aceite de linaça.
 
-Aunque parece que se usó este tipo de imprimación en la etapa inicial, Garrido [@GarridoGenio, p. 16] cuenta que se usan lienzos de alta densidad, con la [tierra roja o almagre](#almagre) aplicada directamente sobre la cola "de guantes", es decir, cola elaborada a partir de piel y huesos animales, en muy posiblemente conejo. Este caso, sin embargo, es especial por el tema y el emplazamiento, así que Garrido comenta [@GarridoGenio, p. 178] que se trata de "blanco de plomo y negro finamente molido", para producir un color cercano al gris; [@mckim1993velazquez] añade que hay trazas de tierra marrón (un óxido metálico también) o de sombra.
+Aunque parece que se usó este tipo de imprimación en la etapa inicial, Garrido [@GarridoGenio, p. 16] cuenta que se usan lienzos de alta densidad, con la [tierra roja o almagre](#almagre) aplicada directamente sobre la cola "de guantes", es decir, cola elaborada a partir de piel y huesos animales, en muy posiblemente conejo. Este caso, sin embargo, es especial por el tema y el emplazamiento, así que Garrido comenta [@GarridoGenio, p. 178] que se trata de "blanco de plomo y negro finamente molido", para producir un color cercano al gris; [@mckim1993velazquez] añade que hay trazas de tierra marrón (un óxido metálico de hierro y manganeso) o de sombra.
 
 Lo más interesante, sin embargo, es que Velázquez en esta fase de su obra aplicaba capas muy finas y en algunos casos simplemente dejaba ver la base del lienzo y su trama; así se ve en alguna de las zonas de la imagen, por ejemplo, alrededor del aura de Jesucristo y en las zonas que rodean a las áreas de mayor claridad. 
 
@@ -464,7 +464,13 @@ El amarillo se hace evidente también, sobre todo en los dorados, y posiblemente
 
 Si bien en otros cuadros Velázquez usa *amarillo de plomo y estaño*, no parece que este tenga los elementos en los que los usa habitualmente: ropa, paisajes o piel de animales; también se usa en combinación con la azurita para obtener verde, que no está presente en este cuadro. Aunque no hemos encontrado ninguna mención a su uso, tampoco se puede descartar, así que lo hacemos constar.
 
-Finalmente, el verde que no es muy conspicuo, y de hecho en un primer vistazo no se ve, pero lo cierto es que está nada menos que en la corona que es el tema principal de la Coronación. Por la economía de pigmentos ya mencionada, Velázquez nunca usa un pigmento verde, sino que emplea mezclas de amarillos y azules. En este caso, un libro [@mckim1993velazquez]
+Finalmente, el verde que no es muy conspicuo, y de hecho en un primer vistazo no se ve, pero lo cierto es que está nada menos que en la corona que es el tema principal de la Coronación. Por la economía de pigmentos ya mencionada, Velázquez nunca usa un pigmento verde, sino que emplea mezclas de amarillos y azules. En este caso, un libro [@mckim1993velazquez, p 128] afirma que se trata de **laca amarilla**, que según Parrilla-Bou [@marai2007arte], se denomina también *ancorca* o *gutiámbar*.
+
+Es un color artificial según Palomino [@palomino, p. 70], que dice de él:
+
+> También se puede hacer otro verde baxo de ancorca y añil, usando del génuli en vez de blanco
+
+De hecho, es el único pigmento que comentan solo Palomino y Pacheco, y se extrae de la planta llamada gualda; es un flavonoide (de hecho, una laca), con fórmula similar a los carmines: C~15~H~10~O~6~. Igual que los otros pigmentos de los que estamos hablando, se trata, según Parrilla-Bou, de artículos de lujo que tenía que proporcionar el cliente. Junto con el lapislázuli y el carmín de cochinilla, queda establecido con claridad que lo que trató de buscar Velázquez en esta pintura fue una calidad extraordinaria de los pigmentos, que reflejara la devoción a la escena de la coronación de la Virgen^[Y, posiblemente, como se ha comentado arriba, a la cuasi-herejía del Sagrado Corazón de María.] "sin reparar en gastos".
 
 ### Conclusiones
 
